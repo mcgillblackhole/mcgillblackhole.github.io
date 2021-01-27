@@ -14,7 +14,7 @@
 <li>Ferrofluid Monte Carlo simulations.</li>
 </ul>
 
-<p style="text-align:justify">In 2018, I've participated on a two-week intensive research project with 7 other physics students at <a href="https://portal.cbpf.br/en-us/home/">CBPF</a>, where we developed and characterized a Josephson Junction. Also, in 2019, I was a student of the two-month long <a href="https://pages.cnpem.br/bolsasdeverao/">CNPEM Summer Grants Program</a>, during which I worked at the Brazilian Synchrotron Light Laboratory (<a href="https://www.lnls.cnpem.br/en/">LNLS</a>), developing instrumentation for electrocaloric and electrostrictive effects.</p>
+<p style="text-align:justify">In 2018, I've participated on a two-week intensive research project with 7 other physics students at <a href="https://portal.cbpf.br/en-us/home/">CBPF</a>, where we developed and characterized a Josephson Junction. Also, in 2019, I was a student in the two-month long <a href="https://pages.cnpem.br/bolsasdeverao/">CNPEM Summer Grants Program</a>, during which I worked at the Brazilian Synchrotron Light Laboratory (<a href="https://www.lnls.cnpem.br/en/">LNLS</a>), developing instrumentation for electrocaloric and electrostrictive effects.</p>
 
 <p>I graduated in 2020, with an Undergraduate Final Project focused on discrete time linear stochastic processes. Our main result was to show when to expect the gaussianization of the limit distribution, based on the system's eigenvalues.</p>
 </details>
