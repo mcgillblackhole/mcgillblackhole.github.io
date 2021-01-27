@@ -1,5 +1,5 @@
 ## Hello!
-<p style="text-align:justify">I'm João Valeriano. I've just finished my Bachelor in Physics by Universidade de Brasília (UnB), Brazil, and I'm about to start a Physics Master Program at Instituto de Física Teórica (IFT-Unesp), São Paulo, Brazil, where <a href="https://ictp-saifr.org">ICTP-SAIFR</a> is based. </p>
+<p style="text-align:justify">I'm João Valeriano. I've just finished my Bachelor in Physics by Universidade de Brasília (UnB), Brazil, and I'm about to start a Physics Master Program at Instituto de Física Teórica (<a href="https://www.ift.unesp.br/">IFT-Unesp</a>), São Paulo, Brazil, where <a href="https://ictp-saifr.org">ICTP-SAIFR</a> is based. </p>
 
 <p style="text-align:justify">During my Master Program, I expect to better understand how environmental chaotic flows shape microbial social interactions, considering the problem mainly through numerical simulations of models combining dynamical systems (for the chaotic flow) and stochastic processes (for diffusion of the microbes and its chemical products) techniques. I hope to have some interesting material about it available here soon.</p>
 
@@ -14,7 +14,7 @@
 <li>Ferrofluid Monte Carlo simulations.</li>
 </ul>
 
-<p style="text-align:justify">In 2018, I've participated on a two-week intensive research project with 7 other physics students at CBPF, where we developed and characterized a Josephson Junction. Also, in 2019, I was a student of the two-month long CNPEM Summer Grants Program, during which I worked at the Brazilian Synchrotron Light Laboratory (LNLS), developing instrumentation for electrocaloric and electrostrictive effects.</p>
+<p style="text-align:justify">In 2018, I've participated on a two-week intensive research project with 7 other physics students at <a href="https://portal.cbpf.br/en-us/home/">CBPF</a>, where we developed and characterized a Josephson Junction. Also, in 2019, I was a student of the two-month long <a href="https://pages.cnpem.br/bolsasdeverao/">CNPEM Summer Grants Program</a>, during which I worked at the Brazilian Synchrotron Light Laboratory (<a href="https://www.lnls.cnpem.br/en/">LNLS</a>), developing instrumentation for electrocaloric and electrostrictive effects.</p>
 </details>
 
 ## This Homepage
