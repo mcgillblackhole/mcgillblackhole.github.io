@@ -1,4 +1,4 @@
 ---
 layout: research
-title: This page is under construction.
+title: Under construction.
 ---
