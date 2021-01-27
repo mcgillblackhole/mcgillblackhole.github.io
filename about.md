@@ -5,7 +5,8 @@
 
 <details>
 <summary><h3 style="display:inline">Bachelor Degree</h3></summary>
-<p style="text-align:justify">My Bachelor in Physics degree started in 2016 and, through its duration, I worked on different year-long projects at UnB, boarding themes including:</p>
+
+<p style="text-align:justify">My Bachelor in Physics degree started in 2016 and, through its duration, I worked on different year-long projects at UnB, approaching themes including:</p>
 
 <ul>
 <li>Quantum Chaos characterization;</li>
@@ -13,8 +14,8 @@
 <li>Ferrofluid Monte Carlo simulations.</li>
 </ul>
 
-I've also participated on a two-week intensive research project with 7 other physics students at CBPF, where we developed and characterized a Josephson Junction. 
+<p style="text-align:justify">In 2018, I've also participated on a two-week intensive research project with 7 other physics students at CBPF, where we developed and characterized a Josephson Junction. And, in 2019, I was a student of the two-month long CNPEM Summer Grants Program, during which I worked at the Brazilian Synchrotron Light Laboratory (LNLS), developing instrumentation for electrocaloric and electrostrictive effects.</p>
 </details>
 
 ## This Homepage
-<p style="text-align:justify">This website is based on the [Jekyll Now](https://github.com/barryclark/jekyll-now) blog template, by [Barry Clark](https://github.com/barryclark).</p>
+<p style="text-align:justify">This website is based on the <a href="https://github.com/barryclark/jekyll-now">Jekyll Now</a> blog template, by <a href="https://github.com/barryclark">Barry Clark</a>.</p>
