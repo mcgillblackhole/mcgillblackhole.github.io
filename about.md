@@ -1,3 +1,4 @@
+<div style="text-align:justify">
 ## Hello!
 I'm João Valeriano. I've just finished my Bachelor in Physics by Universidade de Brasília (UnB), Brazil, and I'm about to start a Physics Master Program at Instituto de Física Teórica (IFT-Unesp), São Paulo, Brazil, where [ICTP-SAIFR](https://ictp-saifr.org) is based. 
 
@@ -16,3 +17,4 @@ I've also participated on a
 
 ## This Homepage
 This website is based on the [Jekyll Now](https://github.com/barryclark/jekyll-now) blog template, by [Barry Clark](https://github.com/barryclark).
+</div>
