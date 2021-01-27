@@ -20,6 +20,6 @@
 </details>
 
 ## This Homepage
-<p style="text-align:justify">This website is based on the <a href="https://github.com/barryclark/jekyll-now">Jekyll Now</a> blog template, available under the <a href="https://opensource.org/licenses/MIT">MIT Licence</a>, by <a href="https://github.com/barryclark">Barry Clark</a>.</p>
+<p style="text-align:justify">This website is based on the <a href="https://github.com/barryclark/jekyll-now">Jekyll Now</a> blog template (available under the <a href="https://opensource.org/licenses/MIT">MIT Licence</a>), by <a href="https://github.com/barryclark">Barry Clark</a>.</p>
 
 **Opinions are my own.**
