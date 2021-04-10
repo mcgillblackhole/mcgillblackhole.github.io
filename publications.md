@@ -18,4 +18,4 @@
 ## Undegraduate Dissertation
 <div style="text-align: justify">We study multilinear maps with additive noise, that is, stochastic linear difference equations, inpired by the discretization of stochastic differential equations, when we suppose the noise is constant by intervals. Integrating the stochastic differential equation on each interval, we obtain a stochastic difference equation. We show that the Central Limit Theorem can be seen as only a special case of a more general theorem describing the limit distribution of a stochastic process, and determine the necessary conditions for the limit distribution of each component of the system to be gaussian. Last but not least, we study
 the Langevin equation with the random force constant by intervals, and show that the velocity’s limit distribution is not necessarily gaussian but, if we reduce the time intervals to recover the stochastic differential equation, we obtain a normal distribution. Besides that, we consider the harmonic oscillator, damped or not, and its most interesting properties.
-<a href="./TCC_160009928.pdf">View PDF here.</a></div>
+<a href="../TCC_160009928.pdf">View PDF here.</a></div>
