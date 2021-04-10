@@ -1,3 +1,7 @@
+---
+title: Publications - João Valeriano
+---
+
 # Peer Reviewed Publications
 
 <ol>
