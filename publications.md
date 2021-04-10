@@ -5,5 +5,5 @@
 
 # Conference Papers
 
- 1. [*Analysis of informative priors' effects on epidemic curve fitting*](https://www.researchgate.net/publication/349899431_Analysis_of_informative_priors'_effects_on_epidemic_curve_fitting). Encontro Acadêmico de Modelagem Computacional. National Laboratory for Scientific Computing, Petrópolis, RJ, Brazil.
+ 1. [*Analysis of informative priors' effects on epidemic curve fitting*](https://www.researchgate.net/publication/349899431_Analysis_of_informative_priors'_effects_on_epidemic_curve_fitting). Encontro Acadêmico de Modelagem Computacional. February 2021. National Laboratory for Scientific Computing, Petrópolis, RJ, Brazil.
 <font size="3">F.F. Nunes, <b>J.P. Valeriano</b>, P.H.P. Cintra, I. Reis, L. Lima, T.L.S. Alves.</font>
