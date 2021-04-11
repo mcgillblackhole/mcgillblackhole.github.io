@@ -4,7 +4,7 @@ title: Publications - João Valeriano
 
 <!-- <link rel="stylesheet" href="style.scss"> -->
 
-(setq markdown-css-paths '("../style.scss"))
+<!-- (setq markdown-css-paths '("../style.scss")) -->
 
 
 <h1>Peer Reviewed Publications</h1>
