@@ -7,7 +7,7 @@ title: About - João Valeriano
 
 <p style="text-align:justify">During my Master degree, I expect to better understand how environmental chaotic flows shape microbial social interactions, considering the problem mainly through numerical simulations of models combining dynamical systems (for the chaotic flow) and stochastic processes (for the diffusion of the microbes and its chemical products) techniques. I hope to have some interesting material about it available here soon.</p>
 
-<details>
+<details open>
 <summary><h3 style="display:inline">Bachelor Degree</h3></summary>
 
 <p style="text-align:justify">My Bachelor in Physics degree started in 2016 and, through its duration, I worked on different year-long projects at UnB, approaching themes including:</p>
