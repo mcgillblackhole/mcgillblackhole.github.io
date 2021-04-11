@@ -2,7 +2,7 @@
 title: Publications - João Valeriano
 ---
 
-# Peer Reviewed Publications
+<h1 style="color: #003366">Peer Reviewed Publications</h1>
 
 <hr>
 
@@ -13,7 +13,7 @@ title: Publications - João Valeriano
 
 <hr style="border: 1px solid">
 
-# Conference Papers
+<h1 style="color: #003366">Conference Papers</h1>
 
  <ol>
 <li><a target="_blank" href="https://www.researchgate.net/publication/349899431_Analysis_of_informative_priors'_effects_on_epidemic_curve_fitting"><i>Analysis of informative priors' effects on epidemic curve fitting</i></a>. Encontro Acadêmico de Modelagem Computacional. National Laboratory for Scientific Computing, Petrópolis, RJ, Brazil.
@@ -23,7 +23,7 @@ title: Publications - João Valeriano
 
 <hr style="border: 1px solid">
 
-# Unpublished Material
+<h1 style="color: #003366">Unpublished Material</h1>
 
 <hr>
 
