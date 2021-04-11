@@ -2,7 +2,7 @@
 title: Publications - João Valeriano
 ---
 
-<link rel="stylesheet" href="style.scss">
+<!-- <link rel="stylesheet" href="style.scss"> -->
 
 <h1>Peer Reviewed Publications</h1>
 
