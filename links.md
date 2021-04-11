@@ -13,5 +13,4 @@ Professor Nemmen's website has some very useful resources for students.
 
 <h1>Useful Papers</h1>
 
-* <a target="_blank" href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008539">Ten simple rules for tackling your first mathematical models: A guide for graduate students by graduate students.</a>
-<font size=2>Korryn Bodner et al. PLOS COMPUTATIONAL BIOLOGY. 2021.</font>
+* <a target="_blank" href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008539">Ten simple rules for tackling your first mathematical models: A guide for graduate students by graduate students.</a> <font size=2>Korryn Bodner et al. PLOS COMPUTATIONAL BIOLOGY. 2021.</font>
