@@ -9,7 +9,7 @@ title: Publications - João Valeriano
 
 <h1>Peer Reviewed Publications</h1>
 
-<hr  noshade>
+<!-- <hr  noshade> -->
 
 <ol>
 <li><a target="_blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0375960120301894"><i>Non-monotonous behavior of the number variance, Mandel factor, invariant uncertainty product and purity for the quantum damped harmonic oscillator</i></a>. Physics Letters A.  Volume 384, Issue 17, 15 June 2020, 126370. <br>
@@ -20,7 +20,7 @@ title: Publications - João Valeriano
 
 <h1>Conference Papers</h1>
 
-<hr  noshade>
+<!-- <hr  noshade> -->
 
  <ol>
 <li><a target="_blank" href="https://www.researchgate.net/publication/349899431_Analysis_of_informative_priors'_effects_on_epidemic_curve_fitting"><i>Analysis of informative priors' effects on epidemic curve fitting</i></a>. Encontro Acadêmico de Modelagem Computacional. National Laboratory for Scientific Computing, Petrópolis, RJ, Brazil.
@@ -32,16 +32,16 @@ title: Publications - João Valeriano
 
 <h1>Unpublished Material</h1>
 
-<hr noshade>
+<!-- <hr noshade> -->
 
-<h2 id="tcc">Undegraduate Dissertation (Portuguese):</h2>
+* <h2 id="tcc">Undegraduate Dissertation (Portuguese):</h2>
 <h3>Study of the Linear N-Dimensional Linear Map with Additive Noise through Lévy's Characteristic Function</h3>
 <font size=2><b>J.P. Valeriano</b>. Supervisor: A.D. Figueiredo. Universidade de Brasília.</font>
 <div style="text-align: justify">We study multilinear maps with additive noise, that is, stochastic linear difference equations, inpired by the discretization of stochastic differential equations, when we suppose the noise is constant by intervals. Integrating the stochastic differential equation on each interval, we obtain a stochastic difference equation. We show that the Central Limit Theorem can be seen as only a special case of a more general theorem describing the limit distribution of a stochastic process, and determine the necessary conditions for the limit distribution of each component of the system to be gaussian. Last but not least, we study the Langevin equation with the random force constant by intervals, and show that the velocity’s limit distribution is not necessarily gaussian but, if we reduce the time intervals to recover the stochastic differential equation, we obtain a normal distribution. Besides that, we consider the harmonic oscillator, damped or not, and its most interesting properties. <a target="_blank" href="../files/TCC-joao_valeriano.pdf">View PDF here.</a></div>
 
 <hr noshade>
 
-<h2 id="cnpem">Scientific Report for Internship at Brazilian Synchrotron Light Lab (LNLS) (Portuguese):</h2>
+* <h2 id="cnpem">Scientific Report for Internship at Brazilian Synchrotron Light Lab (LNLS) (Portuguese):</h2>
 <h3>Instrumentation for the Study of the Electrocaloric and the Electrostrictive Effcts</h3>
 <font size=2><b>J.P. Valeriano</b>. Supervisor: A.M.G. Carvalho, Co-supervisor: L.S.O. Paixão, LNLS/CPNEM.</font>
 <div size=2 style="text-align: justify">Project developed during 2018 <a target="_blank" href="https://pages.cnpem.br/bolsasdeverao/">CNPEM Summer Scholarship Program</a>.</div> 
