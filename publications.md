@@ -4,7 +4,7 @@ title: Publications - João Valeriano
 
 <h1 style="color: #003366">Peer Reviewed Publications</h1>
 
-<hr  noshade>
+<hr style="border: 0px solid" noshade>
 
 <ol>
 <li><a target="_blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0375960120301894"><i>Non-monotonous behavior of the number variance, Mandel factor, invariant uncertainty product and purity for the quantum damped harmonic oscillator</i></a>. Physics Letters A.  Volume 384, Issue 17, 15 June 2020, 126370. <br>

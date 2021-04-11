@@ -24,7 +24,7 @@ title: About - João Valeriano
 <p>I graduated in 2020, with an <a href="../publications#tcc">Undergraduate Dissertation</a> focused on discrete time linear stochastic processes. Our main result was to show when to expect the gaussianization of the limit distribution, based on the system's eigenvalues.</p>
 </details>
 
-<hr style="border: 1px solid">
+<hr style="border: 1px solid" noshade>
 
 <h1 style="color: #003366">This Homepage</h1>
 <p style="text-align:justify">This website is based on the <a href="https://github.com/barryclark/jekyll-now">Jekyll Now</a> blog template (available under the <a href="https://opensource.org/licenses/MIT">MIT Licence</a>), by <a href="https://github.com/barryclark">Barry Clark</a>.</p>
