@@ -2,7 +2,7 @@
 title: About - João Valeriano
 ---
 
-<h1 style="color: #003366">Hello!</h1>
+<h1>Hello!</h1>
 
 <p style="text-align:justify">I'm João Valeriano. I've just finished my Bachelor in Physics by Universidade de Brasília (<a href="https://unb.br/">UnB</a>), Brazil, and started pursuing a Physics Master Degree at Instituto de Física Teórica (<a href="https://www.ift.unesp.br/">IFT-Unesp</a>), São Paulo, Brazil, where <a href="https://ictp-saifr.org">ICTP-SAIFR</a> is based. </p>
 
@@ -26,5 +26,5 @@ title: About - João Valeriano
 
 <hr style="border: 1px solid" noshade>
 
-<h1 style="color: #003366">This Homepage</h1>
+<h1>This Homepage</h1>
 <p style="text-align:justify">This website is based on the <a href="https://github.com/barryclark/jekyll-now">Jekyll Now</a> blog template (available under the <a href="https://opensource.org/licenses/MIT">MIT Licence</a>), by <a href="https://github.com/barryclark">Barry Clark</a>.</p>

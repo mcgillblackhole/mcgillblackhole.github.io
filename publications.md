@@ -2,7 +2,7 @@
 title: Publications - João Valeriano
 ---
 
-<h1 style="color: #003366">Peer Reviewed Publications</h1>
+<h1>Peer Reviewed Publications</h1>
 
 <hr  noshade>
 
@@ -13,7 +13,7 @@ title: Publications - João Valeriano
 
 <hr style="border: 1px solid" noshade>
 
-<h1 style="color: #003366">Conference Papers</h1>
+<h1>Conference Papers</h1>
 
 <hr  noshade>
 
@@ -25,7 +25,7 @@ title: Publications - João Valeriano
 
 <hr style="border: 1px solid" noshade>
 
-<h1 style="color: #003366">Unpublished Material</h1>
+<h1>Unpublished Material</h1>
 
 <hr noshade>
 
