@@ -2,7 +2,7 @@
 title: - Interesting Links - João Valeriano
 ---
 
-<h1 style="color: #003366">Insteresting Links</h1>
+<h1>Insteresting Links</h1>
 
 <hr noshade>
 
