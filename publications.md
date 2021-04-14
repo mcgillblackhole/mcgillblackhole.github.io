@@ -25,7 +25,7 @@ title: Publications - João Valeriano
  <ol>
 <li><a target="_blank" href="https://www.researchgate.net/publication/349899431_Analysis_of_informative_priors'_effects_on_epidemic_curve_fitting"><i>Analysis of informative priors' effects on epidemic curve fitting</i></a>. Encontro Acadêmico de Modelagem Computacional. National Laboratory for Scientific Computing, Petrópolis, RJ, Brazil.
 <br>
-<font size=2>F.F. Nunes, <b>J.P. Valeriano</b>, P.H.P. Cintra, I. Reis, L. Lima, T.L.S. Alves.</font></li>
+<font size=2>F.F. Nunes, <b>J.P. Valeriano</b>, <a target="_blank" href="https://sites.google.com/view/pedrocintra/">P.H.P. Cintra</a>, I. Reis, L. Lima, T.L.S. Alves.</font></li>
 </ol>
 
 <hr style="border: 1px solid" noshade>
