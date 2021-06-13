@@ -8,7 +8,7 @@ title: About - João Augusto
 
 <p style="text-align:justify"> For educational purposes, after working with a diverse public for five years I discovered that I really enjoy teaching and developing innovative solutions for teaching physics in a more interesting way. There's nothing better than kindly helping others through education. Apart from Academia and in a methodological sense, software development and data analysis in a broader scope are 'my cup of tea'.   </p>
 
-Online CV (Lattes) (Portuguese only) | Offline CV (English)
+<a href="http://lattes.cnpq.br/6559029217359209"> Online CV (Lattes) (Portuguese only)</a> | Offline CV (English)
 
 
 <details open>
