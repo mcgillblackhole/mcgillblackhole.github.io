@@ -12,8 +12,8 @@ title: Publications - João Augusto
 <!-- <hr  noshade> -->
 
 <ol>
-<li><a target="_blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0375960120301894"><i>Non-monotonous behavior of the number variance, Mandel factor, invariant uncertainty product and purity for the quantum damped harmonic oscillator</i></a>. Physics Letters A.  Volume 384, Issue 17, 15 June 2020, 126370. <br>
-<font size=2><b>J.P. Valeriano</b>, V.V. Dodonov. (<a target="_blank" href="https://www.researchgate.net/publication/339640689_Non-monotonous_behavior_of_the_number_variance_Mandel_factor_invariant_uncertainty_product_and_purity_for_the_quantum_damped_harmonic_oscillator">Full text here</a>)</font></li>
+<li><a target="_blank" href="https://www.researchgate.net/publication/339663922_UNDERSTANDING_THE_SCHRODINGER_EQUATION_SOME_NONLINEAR_PERSPECTIVES"><i>The Schrödinger Equation Written in the Second Quantization Formalism: Derivation from First Principles</i></a>. In: Valentino A. Simpao; Hunter C. Little. (Org.). Understanding the Schrödinger Equation: Some [Non]Linear Perspectives. 1ed. New York: Nova Science Publishers, Inc., 2020, v. 2, p. 19-36. <br>
+<font size=2>L.S.F. Olavo ; <b>S. S. João Augusto </b>; FERREIRA, M. <!--(<a target="_blank" href="https://www.researchgate.net/publication/339640689_Non-monotonous_behavior_of_the_number_variance_Mandel_factor_invariant_uncertainty_product_and_purity_for_the_quantum_damped_harmonic_oscillator">Full text here</a>)--></font></li>
 </ol>
 
 <!-- <ol>
