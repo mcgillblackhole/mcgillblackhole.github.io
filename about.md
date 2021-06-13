@@ -23,11 +23,10 @@ title: About - João Augusto
 <li>Photo-fragmentation of amino acids from synchrotron radiation using Time-of-flight spectroscopy;</li>
 <li>
 Optimization of potential energy curves for diatomic molecules in atomic and molecular physics via genetic algorithms;</li>
-<li>Derivation from first principles of the Schrödinger Equation for a particular interpretation of Quantum Mechanics;</li>
-<li>Particle physics phenomena in the context of quantum field theory in curved spaces.</li>
+<li>Derivation from first principles of the Schrödinger Equation for a particular interpretation of Quantum Mechanics (<a href="../publications#bc">Book Chapter</a>); </li>
+<li>Particle physics phenomena in the context of quantum field theory in curved spaces (<a href="../publications#tcc">Undergraduate thesis</a>).</li>
 </ul>
 
-<p>I graduated in 2019, with an <a href="../publications#tcc">Undergraduate Dissertation</a> focused on understanding the influence of the Unruh Effect on particle physics phenomena and related topics on the semiclassical approach of QFT in curved spaces.</p>
 </details>
 
 <details open>
