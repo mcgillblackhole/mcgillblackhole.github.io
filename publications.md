@@ -23,7 +23,7 @@ title: Publications - João Augusto
 
 <hr style="border: 1px solid" noshade>
 
-<h1>Conference Papers</h1>
+<!--<h1>Conference Papers</h1> -->
 
 <!-- <hr  noshade> -->
 
