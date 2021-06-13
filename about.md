@@ -14,12 +14,16 @@ Online CV (Lattes) (Portuguese only) | Offline CV (English)
 <details open>
 <summary><h3 style="display:inline">Bachelor Degree</h3></summary>
 
-<p style="text-align:justify">My Bachelor in Physics degree started in 2016 and, through its duration, I worked on different year-long projects at UnB, approaching themes including:</p>
+<p style="text-align:justify"MI started my studies in Physics at the University of Brasília (<a href="https://international.unb.br/">UNB</a>) , Brazil in June of 2015 and ended it in December 2019. I had the opportunity to work on different year-long projects, approaching themes including:
+
+</p>
 
 <ul>
-<li>Quantum Chaos characterization;</li>
-<li>Phased array simulations for radio astronomy;</li>
-<li>Ferrofluid Monte Carlo simulations.</li>
+<li>Photo-fragmentation of amino acids from synchrotron radiation using Time-of-flight spectroscopy;</li>
+<li>
+Optimization of potential energy curves for diatomic molecules in atomic and molecular physics via genetic algorithms;</li>
+<li>Derivation from first principles of the Schrödinger Equation for a particular interpretation of Quantum Mechanics;</li>
+<li>Particle physics phenomena in the context of quantum field theory in curved spaces.</li>
 </ul>
 
 <p style="text-align:justify">In 2018, I've participated on a two-week intensive research project with 7 other physics students at <a href="https://portal.cbpf.br/en-us/home/">CBPF</a>, where we developed and characterized a Josephson Junction. Also, in 2019, I was a student in the two-month long <a href="https://pages.cnpem.br/bolsasdeverao/">CNPEM Summer Scholarships Program</a>, during which I worked at the Brazilian Synchrotron Light Laboratory (<a href="https://www.lnls.cnpem.br/en/">LNLS</a>), <a href="../publications#cnpem">developing instrumentation for measurements of electrocaloric and electrostrictive effects</a>.</p>
