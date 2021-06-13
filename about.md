@@ -31,7 +31,7 @@ Optimization of potential energy curves for diatomic molecules in atomic and mol
 </details>
 
 <details open>
-<summary><h3 style="display:inline">Master Degree</h3></summary>
+<summary><h3 style="color: #FF7A59;display:inline">Master Degree</h3></summary>
 
 <p style="text-align:justify">Since January 2020, I'm working with spin liquids in <a href="https://sites.google.com/site/castroeandrade"> Eric C. Andrade's group </a>at the University of São Paulo, São Carlos, Brazil.  Here's a brief summary of what I've been learning:
 </p>
