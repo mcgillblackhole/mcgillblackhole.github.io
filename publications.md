@@ -7,7 +7,7 @@ title: Publications - João Augusto
 <!-- (setq markdown-css-paths '("../style.scss")) -->
 
 
-<h1>Book Chapters</h1>
+<h1 id=bc>Book Chapters</h1>
 
 <!-- <hr  noshade> -->
 
