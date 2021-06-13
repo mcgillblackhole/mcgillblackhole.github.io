@@ -14,7 +14,7 @@ Online CV (Lattes) (Portuguese only) | Offline CV (English)
 <details open>
 <summary><h3 style="display:inline">Bachelor Degree</h3></summary>
 
-<p style="text-align:justify"MI started my studies in Physics at the University of Brasília (<a href="https://international.unb.br/">UNB</a>) , Brazil in June of 2015 and ended it in December 2019. I had the opportunity to work on different year-long projects, approaching themes including:
+<p style="text-align:justify">I started my studies in Physics at the University of Brasília (<a href="https://international.unb.br/">UNB</a>) , Brazil in June of 2015 and ended it in December 2019. I had the opportunity to work on different year-long projects, approaching themes including:
 
 </p>
 
