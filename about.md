@@ -1,12 +1,15 @@
 ---
-title: About - João Valeriano
+title: About - João Augusto
 ---
 
-<h1>Hello!</h1>
+<h1>Hi and Welcome! :) </h1>
 
-<p style="text-align:justify">I'm João Valeriano. I've just finished my Bachelor in Physics by Universidade de Brasília (<a href="https://unb.br/">UnB</a>), Brazil, and started pursuing a Physics Master Degree at Instituto de Física Teórica (<a href="https://www.ift.unesp.br/">IFT-Unesp</a>), São Paulo, Brazil, where <a href="https://ictp-saifr.org">ICTP-SAIFR</a> is based. </p>
+<p style="text-align:justify"> I'm a physics master's student at (<a href="https://www2.ifsc.usp.br/english/">IFSC</a>) at the University of São Paulo, São Carlos, Brazil, currently working on the study of spin liquids using numerical and analytical techniques such as the Variational Monte Carlo and mean field theories. In general, my research interests lie on understanding how complex and unique phenomena may emerge from interactions between <i>(almost)</i> fundamental blocks of nature, i.e., quasiparticles and particles; for this challenging endeavor, we use established theoretical and computational methods in physics.  </p>
 
-<p style="text-align:justify">During my Master degree, I expect to better understand how environmental chaotic flows shape microbial social interactions, considering the problem mainly through numerical simulations of models combining different techniques from game theory dynamical systems and stochastic processes.</p>
+<p style="text-align:justify"> For educational purposes, after working with a diverse public for five years I discovered that I really enjoy teaching and developing innovative solutions for teaching physics in a more interesting way. There's nothing better than kindly helping others through education. Apart from Academia and in a methodological sense, software development and data analysis in a broader scope are 'my cup of tea'.   </p>
+
+Online CV (Lattes) (Portuguese only) | Offline CV (English)
+
 
 <details open>
 <summary><h3 style="display:inline">Bachelor Degree</h3></summary>
