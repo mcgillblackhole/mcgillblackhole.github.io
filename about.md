@@ -20,9 +20,9 @@ title: About - João Augusto
 </p>
 
 <ul>
-<li>Photo-fragmentation of amino acids from synchrotron radiation using Time-of-flight spectroscopy (<a target="_blank" href="../files/final-report-spec.pdf"> Final report in portuguese)</a>;</li>
+<li>Photo-fragmentation of amino acids from synchrotron radiation using Time-of-flight spectroscopy (<a target="_blank" href="../files/final-report-spec.pdf">Final report in portuguese)</a>;</li>
 <li>
-Optimization of potential energy curves for diatomic molecules in atomic and molecular physics via genetic algorithms (<a target="_blank" href="../files/final-report-ga.pdf"> Final report in portuguese)</a>;</li>
+Optimization of potential energy curves for diatomic molecules in atomic and molecular physics via genetic algorithms (<a target="_blank" href="../files/final-report-ga.pdf">Final report in portuguese)</a>;</li>
 <li>Derivation from first principles of the Schrödinger Equation for a particular interpretation of Quantum Mechanics (<a href="../publications#bc">Book Chapter</a>); </li>
 <li>Particle physics phenomena in the context of quantum field theory in curved spaces (<a href="../publications#tcc">Undergraduate thesis</a>).</li>
 </ul>
