@@ -29,8 +29,6 @@ Optimization of potential energy curves for diatomic molecules in atomic and mol
 <p>I graduated in 2019, with an <a href="../publications#tcc">Undergraduate Dissertation</a> focused on understanding the influence of the Unruh Effect on particle physics phenomena and related topics on the semiclassical approach of QFT in curved spaces.</p>
 </details>
 
-<hr style="border: 1px solid" noshade>
-
 <details open>
 <summary><h3 style="display:inline">Master Degree</h3></summary>
 
@@ -40,16 +38,6 @@ Optimization of potential energy curves for diatomic molecules in atomic and mol
 We investigate how spin liquids can be understood over the scope of Parton construction and projected wave functions. The main idea is to decompose the spin degrees of freedom into bosonic or fermionic (Dirac or Majorana) ones constrained by a physical condition of no double occupancy on the physical Hilbert space (Figure 1 on the left). Although Mean field theories are restrictive in the sense that the physical constraint is only imposed on average in the decoupling procedure, they are used to motivate the possible ansätze that may describe the physical ground state of a system described by an effective Hamiltonian motivated by experiments. Numerical techniques such as the Variational Monte Carlo are interesting since they impose the condition exactly at each site, furnishing an environment to learn about competitive phases on frustrated magnetism. We are applying these techniques to a putative chiral spin liquid on the kagome lattice in a collaboration with <a href="https://www.iip.ufrn.br/qiqm/people/our-group/rodrigo-pereira/"> Rodrigo Pereira's group </a> at IIP, Natal.
 </details>
 
-<ul>
-<li>Photo-fragmentation of amino acids from synchrotron radiation using Time-of-flight spectroscopy;</li>
-<li>
-Optimization of potential energy curves for diatomic molecules in atomic and molecular physics via genetic algorithms;</li>
-<li>Derivation from first principles of the Schrödinger Equation for a particular interpretation of Quantum Mechanics;</li>
-<li>Particle physics phenomena in the context of quantum field theory in curved spaces.</li>
-</ul>
-
-<p>I graduated in 2019, with an <a href="../publications#tcc">Undergraduate Dissertation</a> focused on understanding the influence of the Unruh Effect on particle physics phenomena and related topics on the semiclassical approach of QFT in curved spaces.</p>
-</details>
 
 <hr style="border: 1px solid" noshade>
 
