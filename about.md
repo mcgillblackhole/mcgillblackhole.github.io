@@ -41,7 +41,7 @@ We investigate how spin liquids can be understood over the scope of Parton const
 
 <div style="text-align: center;">
 
-  <img src="../images/bitmap.png"  style="width: 55vw; min-width: 330px;" height: auto;>
+  <img src="../images/bitmap.png"  style="width: 55vw;height: auto;" >
 
 </div>
 
