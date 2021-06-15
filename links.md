@@ -10,7 +10,7 @@ title: - Interesting Links - João Valeriano
 useful tool for exploring relevant related papers.
 
 * <a target="_blank" href="https://paperscape.org/">Paperscape</a>:
-a map of all pre-prints on arxiv.
+a map of all pre-prints on arxiv. Sorting in the category by "age" presents and interesting overview of recent academic production.
 
 <hr style="border: 1px solid" noshade>
 
