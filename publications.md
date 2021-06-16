@@ -27,7 +27,7 @@ title: Publications - João Augusto
 
 <!-- <hr  noshade> -->
 
-<ol><li><a target="_blank" href="https://periodicos.unb.br/index.php/rpf/article/view/36954"><i>The Schrödinger equation written in the second quantization formalism: derivation from first principles </i></a>. evista do Professor de Física, v. 5, p. 24-39, 2021. 
+<ol><li><a target="_blank" href="https://periodicos.unb.br/index.php/rpf/article/view/36954"><i>The Schrödinger equation written in the second quantization formalism: derivation from first principles </i></a>. Revista do Professor de Física, v. 5, p. 24-39, 2021. 
 <br>
 <font size=2>L.S.F. Olavo ; <b>S. S. João Augusto </b>; FERREIRA, M. .</font></li>
 </ol> 
