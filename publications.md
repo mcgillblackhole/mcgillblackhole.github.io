@@ -47,7 +47,7 @@ title: Publications - João Augusto
 
 <!-- <hr noshade> -->
 
-* <h2 id="tcc">Undergraduate Dissertation (Portuguese):</h2>
+* <h2 style="color: #339E66F;" id="tcc">Undergraduate Dissertation (Portuguese):</h2>
 <h3>Decaimento de Férmions Acelerados, Efeito Unruh e
 Aplicações no Regime Semi-Clássico</h3>
 <font size=2><b>J.A.S. Silva</b>. Supervisor: <a targe="_blank" href="https://www.fis.unb.br/index.php?option=com_myjspace&view=see&pagename=clovis">C. A. S. Maia.</a> Universidade de Brasília.</font>
