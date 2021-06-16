@@ -2,7 +2,7 @@
 title: About - João Augusto
 ---
 
-<h1>Hi and Welcome! :) </h1>
+<h1><h3 style="color: #008080;display:inline">Hi and Welcome! :) </h1>
 
 <p style="text-align:justify"> I'm a physics master's student at (<a href="https://www2.ifsc.usp.br/english/">IFSC</a>) at the University of São Paulo, São Carlos, Brazil, currently working on the study of spin liquids using numerical and analytical techniques such as the Variational Monte Carlo and mean field theories. In general, my research interests lie on understanding how complex and unique phenomena may emerge from interactions between <i>(almost)</i> fundamental blocks of nature, i.e., quasiparticles and particles; for this challenging endeavor, we use established theoretical and computational methods in physics.  </p>
 
