@@ -7,7 +7,7 @@ title: Publications - João Augusto
 <!-- (setq markdown-css-paths '("../style.scss")) -->
 
 
-<h1 id=bc>Book Chapters</h1>
+<h1 style="color: #008080;" id=bc>Book Chapters</h1>
 
 <!-- <hr  noshade> -->
 
@@ -23,7 +23,7 @@ title: Publications - João Augusto
 
 <!--<hr style="border: 1px solid" noshade> -->
 
-<h1>Papers in Education </h1>
+<h1 style="color: #95DBE5FF;">Papers in Education </h1>
 
 <!-- <hr  noshade> -->
 
