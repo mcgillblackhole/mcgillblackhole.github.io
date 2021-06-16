@@ -23,7 +23,7 @@ title: Publications - João Augusto
 
 <!--<hr style="border: 1px solid" noshade> -->
 
-<h1 style="color: #78282FF;">Papers in Education </h1>
+<h1 style="color: #008080;">Papers in Education </h1>
 
 <!-- <hr  noshade> -->
 
