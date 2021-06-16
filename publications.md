@@ -25,7 +25,7 @@ title: Publications - João Augusto
 
 <h1>Papers in Education </h1>
 
- <hr  noshade> -->
+<!-- <hr  noshade> -->
 
 <ol><li><a target="_blank" href="https://periodicos.unb.br/index.php/rpf/article/view/36954"><i>The Schrödinger equation written in the second quantization formalism: derivation from first principles </i></a>. evista do Professor de Física, v. 5, p. 24-39, 2021. 
 <br>
