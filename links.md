@@ -7,10 +7,13 @@ title: - Interesting Links - João Valeriano
 <!-- <hr noshade> -->
 
 * <a target="_blank" href="https://www.connectedpapers.com/">Connected Papers</a>:
-useful tool for exploring relevant related papers.
+useful tool for exploring relevant related papers;
 
 * <a target="_blank" href="https://paperscape.org/">Paperscape</a>:
-a map of all pre-prints on arxiv. Sorting in the category by "age" presents and interesting overview of recent academic production.
+a map of all pre-prints on arxiv. Sorting in the category by "age" presents and interesting overview of recent academic production;
+
+* <a target="_blank" href="https://www.quantamagazine.org/">Quanta Magazine</a>:
+my favorite media for science communication.
 
 <hr style="border: 1px solid" noshade>
 
