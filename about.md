@@ -37,6 +37,11 @@ Optimization of potential energy curves for diatomic molecules in atomic and mol
 
 We investigate how spin liquids can be understood over the scope of Parton construction and projected wave functions. The main idea is to decompose the spin degrees of freedom into bosonic or fermionic (Dirac or Majorana) ones constrained by a physical condition of no double occupancy on the physical Hilbert space (Figure 1 on the left). Although Mean field theories are restrictive in the sense that the physical constraint is only imposed on average in the decoupling procedure, they are used to motivate the possible ansätze that may describe the physical ground state of a system described by an effective Hamiltonian motivated by experiments. Numerical techniques such as the Variational Monte Carlo are interesting since they impose the condition exactly at each site, furnishing an environment to learn about competitive phases on frustrated magnetism. We are applying these techniques to a putative chiral spin liquid on the kagome lattice in a collaboration with <a href="https://www.iip.ufrn.br/qiqm/people/our-group/rodrigo-pereira/"> Rodrigo Pereira's group </a> at IIP, Natal.
 <br>
+  
+ 
+<a href="http://lattes.cnpq.br/6559029217359209"> Poster presentation at the Autumn Meeting of the Brazilian Physical Society 2021 </a> <br>
+<a target="_blank" href="../files/offlinecv-en-joaoa.pdf">Offline CV (English).</a>
+
 <!--<div style="text-align: center;">
 
   <img src="../images/bitmap.png"  style="width: 55vw;height: auto;" >
