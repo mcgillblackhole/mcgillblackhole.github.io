@@ -1,5 +1,5 @@
 ---
-title: Publications - João Augusto
+title: Publications
 ---
 
 <!-- <link rel="stylesheet" href="style.scss"> -->
