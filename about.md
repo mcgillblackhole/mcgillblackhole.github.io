@@ -1,5 +1,5 @@
 ---
-title: About - João Augusto
+title: About 
 ---
 
 <h1 style="color: #00203FFF;"> Hi and Welcome! :) </h1>
