@@ -3,6 +3,12 @@
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
+		<style>
+		body {
+		  background-image: url('{{ site.baseurl }}/images/teste.jpg');
+		}
+		</style>
+		</head>
     {% include meta.html %}
 
     <!--[if lt IE 9]>
@@ -38,17 +44,6 @@
         </header>
       </div>
     </div>
-
-		<html>
-		<head>
-		<style>
-		body {
-		  background-image: url('{{ site.baseurl }}/images/teste.jpg');
-		}
-		</style>
-		</head>
-
-		</html>
 	  
     <div id="main" role="main" class="container">
       {{ content }}
