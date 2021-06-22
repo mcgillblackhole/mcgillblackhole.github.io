@@ -75,13 +75,14 @@ sass:
 
 #custom theme
 #theme: jekyll-theme-minimal
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
 
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-
+gem "minima"
+$ bundle
 # Exclude these files from your production _site
 exclude:
   - Gemfile
