@@ -1,5 +1,5 @@
 ---
-title: - Interesting Links - João Valeriano
+title: - Interesting Links
 ---
 
 <h1>Misc</h1>
