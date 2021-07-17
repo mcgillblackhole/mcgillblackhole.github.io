@@ -18,7 +18,7 @@ title: About
 <a target="_blank" href="../files/Offline_Resume.pdf">Offline CV (English).</a>
 
 
-<details>
+<details open>
 <summary><h3 style="color: #008080;display:inline">Bachelor Degree</h3></summary>
 
 <p style="text-align:justify">I started my studies in Physics at the University of Brasília (<a href="https://international.unb.br/">UNB</a>) , Brazil in June of 2015 and ended it in December 2019. I had the opportunity to work on different year-long projects, approaching themes including:
