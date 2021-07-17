@@ -9,7 +9,7 @@ title: About
 <p style="text-align:justify"> For educational purposes, after working with a diverse public for five years I discovered that I really enjoy teaching and developing innovative solutions for teaching physics in a more interesting way. There's nothing better than kindly helping others through education. Apart from Academia and in a methodological sense, software development and data analysis in a broader scope are 'my cup of tea'.   </p>
 
 
-<p style="text-align:justify"> In my spare time I find comfort reading (<a href="https://www.goodreads.com/user/show/117614351-jo-o-augusto-sobral-da-silva"> goodreads</a>), cooking, playing classical and soundtrack pieces on the acoustic guitar and gazing Nature :) </p>
+<p style="text-align:justify"> In my spare time I find comfort reading (<a href="https://www.goodreads.com/user/show/117614351-jo-o-augusto-sobral-da-silva">goodreads</a>), cooking, playing classical and soundtrack pieces on the acoustic guitar and gazing Nature :) </p>
 
 <br>
 
