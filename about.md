@@ -59,4 +59,4 @@ We investigate how spin liquids can be understood over the scope of Parton const
 <hr style="border: 1px solid" noshade>
 
 <h1>This Homepage</h1>
-<p style="text-align:justify">This website was inspired by the one of my good friend <a href="https://joaovaleriano.github.io/">João Pedro Valeriano</a> , which is based on the <a href="https://github.com/barryclark/jekyll-now">Jekyll Now</a> blog template (available under the <a href="https://opensource.org/licenses/MIT">MIT Licence</a>), by <a href="https://github.com/barryclark">Barry Clark</a>.</p>
+<p style="text-align:justify">This website was inspired by the one of my good friend <a href="https://joaovaleriano.github.io/">João Pedro Valeriano</a>, which is based on the <a href="https://github.com/barryclark/jekyll-now">Jekyll Now</a> blog template (available under the <a href="https://opensource.org/licenses/MIT">MIT Licence</a>), by <a href="https://github.com/barryclark">Barry Clark</a>.</p>
