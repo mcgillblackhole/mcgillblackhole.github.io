@@ -8,9 +8,7 @@ title: - Interesting Links
 <!-- <hr noshade> -->
 * <a target="_blank" href="https://q4climate.github.io/">Q4 Climate</a>:
 an inspiring initiative uniting research communities from quantum and climate science, involving ;
- <ul>
-  <li><a target="_blank" href="https://arxiv.org/abs/2107.05362">Quantum technologies for climate change: Preliminary assessment</a>:</li>
-</ul> 
+** <a target="_blank" href="https://arxiv.org/abs/2107.05362">Quantum technologies for climate change: Preliminary assessment</a>:</li>
 
 * <a target="_blank" href="https://www.connectedpapers.com/">Connected Papers</a>:
 useful tool for exploring relevant related papers;
