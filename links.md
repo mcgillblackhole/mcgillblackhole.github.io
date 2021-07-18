@@ -8,7 +8,8 @@ title: - Interesting Links
 <!-- <hr noshade> -->
 * <a target="_blank" href="https://q4climate.github.io/">Q4 Climate</a>:
 an inspiring initiative uniting research communities from quantum and climate science, involving ;
-** <a target="_blank" href="https://arxiv.org/abs/2107.05362">Quantum technologies for climate change: Preliminary assessment</a>:</li>
+** 
+
 
 * <a target="_blank" href="https://www.connectedpapers.com/">Connected Papers</a>:
 useful tool for exploring relevant related papers;
@@ -21,7 +22,19 @@ my favorite media for science communication.
 
 <hr style="border: 1px solid" noshade>
 
-<!--
-<h1>Useful Papers</h1>
 
-* <a target="_blank" href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008539">Ten simple rules for tackling your first mathematical models: A guide for graduate students by graduate students.</a> <font size=2>Korryn Bodner et al. PLOS COMPUTATIONAL BIOLOGY. 2021.</font> -->
+<h1>Climate Change</h1>
+
+<ul>
+  <li><a target="_blank" href="https://arxiv.org/abs/2107.05362">Quantum technologies for climate change: Preliminary assessment (arXiv:2107.05362) </a>:</li></li>
+  <li>Tea
+    <ul>
+      <li>Black tea</li>
+      <li>Green tea</li>
+    </ul>
+  </li>
+  <li>Milk</li>
+</ul>
+
+<!--* <a target="_blank" href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008539">Ten simple rules for tackling your first mathematical models: A guide for graduate students by graduate students.</a> <font size=2>Korryn Bodner et al. PLOS COMPUTATIONAL BIOLOGY. 2021.</font> -->
+
