@@ -6,10 +6,6 @@ title: - Interesting Links
 
 
 <!-- <hr noshade> -->
-* <a target="_blank" href="https://q4climate.github.io/">Q4 Climate</a>:
-an inspiring initiative uniting research communities from quantum and climate science, involving ;
-** 
-
 
 * <a target="_blank" href="https://www.connectedpapers.com/">Connected Papers</a>:
 useful tool for exploring relevant related papers;
@@ -26,10 +22,11 @@ my favorite media for science communication.
 <h1>Climate Change</h1>
 
 <ul>
-  <li><a target="_blank" href="https://arxiv.org/abs/2107.05362">Quantum technologies for climate change: Preliminary assessment (arXiv:2107.05362) </a>:</li></li>
+  <li> <a target="_blank" href="https://q4climate.github.io/">Q4 Climate</a>:
+an inspiring initiative uniting research communities from quantum and climate science, involving ; 
   <li>Tea
     <ul>
-      <li>Black tea</li>
+      <li><a target="_blank" href="https://arxiv.org/abs/2107.05362">Quantum technologies for climate change: Preliminary assessment (arXiv:2107.05362) </a>:</li></li></li>
       <li>Green tea</li>
     </ul>
   </li>
