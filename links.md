@@ -23,14 +23,10 @@ my favorite media for science communication.
 
 <ul>
   <li> <a target="_blank" href="https://q4climate.github.io/">Q4 Climate</a>:
-an inspiring initiative uniting research communities from quantum and climate science, involving ; 
-  <li>Tea
+an inspiring initiative uniting research communities from quantum and climate science, involving industry, government and academia to tackle the climate change problem.
     <ul>
       <li><a target="_blank" href="https://arxiv.org/abs/2107.05362">Quantum technologies for climate change: Preliminary assessment (arXiv:2107.05362) </a>:</li></li></li>
-      <li>Green tea</li>
     </ul>
-  </li>
-  <li>Milk</li>
 </ul>
 
 <!--* <a target="_blank" href="https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008539">Ten simple rules for tackling your first mathematical models: A guide for graduate students by graduate students.</a> <font size=2>Korryn Bodner et al. PLOS COMPUTATIONAL BIOLOGY. 2021.</font> -->
