@@ -19,7 +19,7 @@ title: About
 
 
   
-<h1 style="color: #008080;display:inline">Interests</h1>
+<h3 style="color: #008080;display:inline">Interests</h3>
 
 <h1 style="color: #008080;display:inline">Research Topics </h1>
 
