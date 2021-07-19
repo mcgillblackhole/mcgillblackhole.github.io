@@ -17,13 +17,6 @@ title: About
 
 <a target="_blank" href="../files/Offline_Resume.pdf">Offline CV (English).</a>
 
-    
-<h1 style="color: #008080;display:inline">Research Topics </h1>
-
-<h1 style="color: #008080;display:inline">In a broader sense</h1>
-
-<h1 style="color: #008080;display:inline">Interests</h1>
-
 
 <details open>
 <summary><h3 style="color: #008080;display:inline">Bachelor Degree</h3></summary>
