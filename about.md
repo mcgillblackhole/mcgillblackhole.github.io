@@ -17,24 +17,6 @@ title: About
 
 <a target="_blank" href="../files/Offline_Resume.pdf">Offline CV (English).</a>
 
-
-  
-<h3 style="color: #008080;display:inline">Interests</h3>
-
-  <li> <a target="_blank" href="https://q4climate.github.io/">Research Topics</a>
-    <ul>
-      <li>Frustrated Magnetism. </li>
-      <li>Spin Liquids. </li>
-    </ul>
-  <li> <a target="_blank" href="https://q4climate.github.io/">In a broader sense</a>
-        <ul>
-      <li>Condensed Matter and Phase Transition Phenomena</li>
-      <li>Statistical Physics</li>
-      <li>Monte Carlo Techniques and computational methods applied to physics in general 
-</li>
- <li>Quantum Field Theory and applications
-</li>
-    </ul>
     
 <h1 style="color: #008080;display:inline">Research Topics </h1>
 
