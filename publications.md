@@ -47,9 +47,8 @@ title: Publications
 
 <!-- <hr noshade> -->
 
-* <h2 style="color: #339E66F;" id="tcc">Undergraduate Dissertation (Portuguese):</h2>
-<h3>Decaimento de Férmions Acelerados, Efeito Unruh e
-Aplicações no Regime Semi-Clássico</h3>
+* <h2 style="color: #339E66F;" id="tcc"> Undergraduate Dissertation (Portuguese):</h2>
+<h3>Decay of accelerated fermions, Unruh Effect and applications in the semi-classical regime</h3>
 <font size=2><b>J.A.S. Silva</b>. Supervisor: <a targe="_blank" href="https://www.fis.unb.br/index.php?option=com_myjspace&view=see&pagename=clovis">C. A. S. Maia.</a> Universidade de Brasília.</font>
 <div style="text-align: justify">In an introduction to quantum field theory, brief notions in curved spaces and to the
 phenomenology of elementary particles, a revision work was developed focusing on the
