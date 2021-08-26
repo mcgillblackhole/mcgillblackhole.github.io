@@ -10,7 +10,7 @@ title: About
 
 
 <p style="text-align:justify"> In my spare time I find comfort reading (<a href="https://www.goodreads.com/user/show/117614351-jo-o-augusto-sobral-da-silva">goodreads</a>), cooking, playing classical and soundtrack pieces on the acoustic guitar and gazing Nature.
-<br>
+<br> <br>
 
 
 <a href="http://lattes.cnpq.br/6559029217359209"> Online CV (Lattes) (Portuguese only)</a> <br>
