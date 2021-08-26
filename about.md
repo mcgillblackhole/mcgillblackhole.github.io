@@ -46,7 +46,7 @@ We investigate how spin liquids can be understood over the scope of Parton const
 <br>
 <a target="_blank" href="../files/jasbf2021.pdf">Poster</a> presentation at the <a href="http://sbfisica.org.br/~eosbf/2021/index.php/pt/"> Autumn Meeting of the Brazilian Physical Society 2021 </a> <br>
   
-<a target="_blank" href="../files/posterSIFSC11.pdf">Poster</a> presentation at the <a href="https://sifsc.ifsc.usp.br/"> Semana Integrada da Graduação e Pós-Graduação do Instituto de Física de São Carlos 2021 </a>: 
+<a target="_blank" href="../files/posterSIFSC11.pdf">Poster</a> presentation at the <a href="https://sifsc.ifsc.usp.br/"> Semana Integrada da Graduação e Pós-Graduação do Instituto de Física de São Carlos 2021:</a>
 
 <ul>
 <li>  <a href="https://www.youtube.com/watch?v=JE6LxKKkF-A"> Presentation </a> at youtube (portuguese only).</li>
