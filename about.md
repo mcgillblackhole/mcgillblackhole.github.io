@@ -50,7 +50,6 @@ We investigate how spin liquids can be understood over the scope of Parton const
 
 <ul>
 <li>  <a href="https://www.youtube.com/watch?v=JE6LxKKkF-A"> Presentation </a> at youtube (portuguese only).</li>
-<li>
 </ul>
 <!--<div style="text-align: center;">
 
