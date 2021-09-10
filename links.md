@@ -29,7 +29,7 @@ an inspiring initiative uniting research communities from quantum and climate sc
     </ul>
   <li> <a target="_blank" href="https://www.climatechange.ai/">Climate Change AI</a>: initiative promoting impactful research at the intersection of climate change and artificial intelligence.
     <ul>
-      <li><a target="_blank" href="https://arxiv.org/abs/2107.05362"> Tackling Climate Change with Machine Learning (arXiv:1906.05433). </a></li>
+      <li><a target="_blank" href="https://arxiv.org/abs/1906.05433"> Tackling Climate Change with Machine Learning (arXiv:1906.05433). </a></li>
     </ul>
 
 
