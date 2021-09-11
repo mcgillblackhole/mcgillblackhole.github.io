@@ -15,7 +15,7 @@ title: About
 
 <a href="http://lattes.cnpq.br/6559029217359209"> Online CV (Lattes) (Portuguese only)</a> <br>
 
-<a target="_blank" href="../files/offlinecv_joaoasds.pdf">Offline CV (English)</a>
+<a target="_blank" href="../files/offlinecv_joaoa.pdf">Offline CV (English)</a>
 
 
 <details open>
