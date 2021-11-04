@@ -42,4 +42,4 @@ src="/mcgill/mega0x.png" alt="šr = - Gm  -r1 --r2-- Gm  -r1 --r3-
 
 
 Test
-<h3 style="color: #008080;display:inline">References</h3>
+<h3 style="color: #008080;display:inline">References</h3> 
