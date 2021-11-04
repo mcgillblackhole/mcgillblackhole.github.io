@@ -42,7 +42,7 @@ Test
 for rendering LaTeX equations in HTML;
 
 * <a target="_blank" href="https://github.com/jekyll/jekyll">Jekyll</a>:
-a map of all pre-prints on arxiv. Sorting in the category by "age" presents an interesting overview of recent academic production;
+for rendering and editing of our webpage.
 
 
 <hr style="border: 1px solid" noshade>
