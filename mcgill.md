@@ -2,7 +2,7 @@
 title: Three-Body Gravitational Problem
 ---
 
-<h3 style="color: #008080;display:inline">Bachelor Degree</h3>
+<h1 style="color: #008080;display:inline">The Three-Body Gravitational Problem</h1>
 <p class="aligncenter">
  <img src="/mcgill/3body.gif" alt="Loading" title="Loading" class="center" />
 </p>
