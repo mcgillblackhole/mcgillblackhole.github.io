@@ -1,10 +1,5 @@
-
 ---
-
-layout: default
-title: Three-Body Gravitational Problem
-permalink: https://joaosds.github.io/mcgill/
-
+title: Three-Body Gravitational Problem: Mcgill
 ---
  
 <p class="aligncenter">
