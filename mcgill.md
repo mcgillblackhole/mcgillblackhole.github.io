@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Three-Body Gravitational Problem
 ---
 
