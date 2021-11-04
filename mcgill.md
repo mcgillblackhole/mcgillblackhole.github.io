@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Three-Body Gravitational Problem
 permalink: https://joaosds.github.io/McGill-Physics-Hackathon-2021/
 ---
