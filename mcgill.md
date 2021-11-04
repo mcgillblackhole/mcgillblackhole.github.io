@@ -5,9 +5,9 @@ permalink: https://joaosds.github.io/McGill-Physics-Hackathon-2021/
 ---
 
 <h1 style="color: #008080;display:inline">The Three-Body Gravitational Problem</h1>
-<p class="aligncenter">
- <img src="/mcgill/3body.gif" alt="Loading" title="Loading" class="center" />
-</p>
+
+<img src="/mcgill/3body.gif" alt="Loading" title="Loading" class="center" />
+
 
 <h3 style="color: #008080;display:inline">Brief description of our project</h3>
 
