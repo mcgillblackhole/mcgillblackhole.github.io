@@ -16,28 +16,23 @@ Test
 Test
 <h3 style="color: #008080;display:inline">Physics behind the project</h3>
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"  
-  "http://www.w3.org/TR/html4/loose.dtd">  
-<html > 
-<head><title></title> 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
-<meta name="generator" content="TeX4ht (https://tug.org/tex4ht/)"> 
-<meta name="originator" content="TeX4ht (https://tug.org/tex4ht/)"> 
-<!-- html --> 
-<meta name="src" content="mega.tex"> 
-<link rel="stylesheet" type="text/css" href="mega.css"> 
-</head><body 
->
-<!--l. 11--><p class="noindent" >This is a simple teste of converting latex to html:
-   <div class="par-math-display" >
-<img 
-src="/mcgill/mega0x.png" alt="šr = - Gm  -r1 --r2-- Gm  -r1 --r3-
-         2|r1 - r2|3     3|r1 - r3|3
-" class="par-math-display" ></div>
-<!--l. 15--><p class="nopar" >
-    
-</body></html> 
-
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>MathJax example</title>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async
+          src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+</head>
+<body>
+<p>
+  When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
+  \[x = {-b \pm \sqrt{b^2-4ac} \over 2a}.\]
+</p>
+</body>
 
 
 
