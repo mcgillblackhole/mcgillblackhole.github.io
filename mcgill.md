@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Three-Body Gravitational Problem
-permalink: https://joaosds.github.io/McGill-Physics-Hackathon-2021/
 ---
 
 <h1 style="color: #008080;display:inline">The Three-Body Gravitational Problem</h1>
