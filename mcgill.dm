@@ -3,4 +3,4 @@
 title: Three-Body Gravitational Problem
 ---
 
-teste
+<img src="/mcgill/3body.gif" alt="Loading" title="Loading" />
