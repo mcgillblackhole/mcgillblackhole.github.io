@@ -1,6 +1,5 @@
 
 ---
-layout: page
 title: Three-Body Gravitational Problem
 permalink: https://joaosds.github.io/mcgill
 ---
