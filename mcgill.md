@@ -37,3 +37,13 @@ Test
 Test
   
 <h3 style="color: #008080;display:inline">References</h3> 
+  
+* <a target="_blank" href="https://www.mathjax.org/">Mathjax</a>:
+for rendering LaTeX equations in HTML;
+
+* <a target="_blank" href="https://github.com/jekyll/jekyll">Jekyll</a>:
+a map of all pre-prints on arxiv. Sorting in the category by "age" presents an interesting overview of recent academic production;
+
+
+<hr style="border: 1px solid" noshade>
+  
