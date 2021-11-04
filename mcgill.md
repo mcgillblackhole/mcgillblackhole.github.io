@@ -16,7 +16,6 @@ Test
 Test
 <h3 style="color: #008080;display:inline">Physics behind the project</h3>
 
-<!DOCTYPE html>
 <html>
 <head>
   <meta charset="utf-8">
