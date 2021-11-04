@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Three-body gravitational problem
 ---
 
 <h1>The purpose of this website</h1>
