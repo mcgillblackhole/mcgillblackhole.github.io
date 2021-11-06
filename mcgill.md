@@ -43,6 +43,8 @@ Welcome to our interactive three body problem simulation project for McGill Phys
 for rendering LaTeX equations in HTML;</li>
   <li><a target="_blank" href="https://github.com/jekyll/jekyll">Jekyll</a>:
 for rendering and editing of our webpage.</li>
+  <li><a target="_blank" href="https://en.wikipedia.org/wiki/Einstein%E2%80%93Infeld%E2%80%93Hoffmann_equations">Einstein–Infeld–Hoffmann equations.</a>
+</li>
     </ul>
 
     
