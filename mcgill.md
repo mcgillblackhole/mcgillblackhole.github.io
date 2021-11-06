@@ -15,7 +15,7 @@ Welcome to our interactive three body problem simulation project for McGill Phys
 
 <h2>Manual of our simulator </h2>
 
-<h2 style="color: #008080;display:inline">Physics behind the project</h2>
+<h2>Physics behind the project</h2>
 
 <html>
 <head>
