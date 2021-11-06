@@ -8,12 +8,14 @@ title: Three-Body Gravitational Problem
 <img src="/mcgill/3body.gif" alt="Loading" title="Loading" class="center" />
 
 
+<h1>Brief Description of our project</h1>
+
 <h3 style="color: #008080;display:inline">Brief description of our project</h3>
 
 Test
 
-<h3 style="color: #008080;display:inline">Manual of our simulator</h3>
-Test
+<h1>Manual of our simulator </h1>
+
 <h3 style="color: #008080;display:inline">Physics behind the project</h3>
 
 <html>
@@ -34,17 +36,8 @@ Test
 </body>
 
 
-Test
-  
-<h3 style="color: #008080;display:inline">References</h3> 
-  
-* 
 
-*
-
-
-  
-<h1>Climate Change</h1>
+<h1>References</h1>
 
 <ul>
   <li> <a target="_blank" href="https://www.mathjax.org/">Mathjax</a>:
