@@ -48,9 +48,8 @@ Test
 
 <ul>
   <li> <a target="_blank" href="https://www.mathjax.org/">Mathjax</a>:
-for rendering LaTeX equations in HTML;
-    <ul>
-      <li><a target="_blank" href="https://github.com/jekyll/jekyll">Jekyll</a>:
+for rendering LaTeX equations in HTML;</li>
+  <li><a target="_blank" href="https://github.com/jekyll/jekyll">Jekyll</a>:
 for rendering and editing of our webpage.</li>
     </ul>
 
