@@ -8,15 +8,15 @@ title: Three-Body Gravitational Problem
 <img src="/mcgill/3body.gif" alt="Loading" title="Loading" class="center" />
 
 
-<h1>Brief Description of our project</h1>
+<h2>Brief Description of our project</h2>
 
 <h3 style="color: #008080;display:inline">Brief description of our project</h3>
 
-Test
+Welcome to our interactive 3 body-simulation project! Here we implement Post-Newtonian corrections to orbits differential equations and obtain the relativistic corrections for the trajectories of the planets. In addition, we also explore the gravitational waves spectrum at each moment in 
 
-<h1>Manual of our simulator </h1>
+<h2>Manual of our simulator </h2>
 
-<h3 style="color: #008080;display:inline">Physics behind the project</h3>
+<h2 style="color: #008080;display:inline">Physics behind the project</h2>
 
 <html>
 <head>
