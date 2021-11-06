@@ -3,16 +3,15 @@ layout: default
 title: Three-Body Gravitational Problem
 ---
 
-<h1 style="color: #008080;display:inline">The Three-Body Gravitational Problem</h1>
+<h1>The Three-Body Gravitational Problem</h1>
 
 <img src="/mcgill/3body.gif" alt="Loading" title="Loading" class="center" />
 
 
 <h2>Brief Description of our project</h2>
 
-<h3 style="color: #008080;display:inline">Brief description of our project</h3>
 
-Welcome to our interactive 3 body-simulation project! Here we implement Post-Newtonian corrections to orbits differential equations and obtain the relativistic corrections for the trajectories of the planets. In addition, we also explore the gravitational waves spectrum at each moment in 
+Welcome to our interactive three body problem simulation project for McGill Physics Hackathon 2021! Here we implement Post-Newtonian/relativistic corrections to the orbit of each planet. In addition, we also explore the gravitational waves spectrum emission for each particle in an intuitive windowed interface built with PyQT5.
 
 <h2>Manual of our simulator </h2>
 
