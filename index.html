@@ -49,24 +49,10 @@ if you have both python2 and python3 on your personal machine.
   The system is composed of Alpha Centauri A, B and C. However, Alpha Centauri C (also known as Proxima Centauri) mass is only 0.122 solar masses
   (denoted by \(M_\odot\) ), while the masses of Alpha Centauri A and B are 1.1 \(M_\odot\) and 0.907 \(M_\odot\), respectively. Furthermore, Proxima Centauri
   appears to be far away from the first two, not influencing their dynamics significantly. The system is then approximated to a binary sistem of Alpha
-  Centauri A and B (See <a href="https://arxiv.org/abs/astro-ph/9609106"> Wiegert, P. A. & Holman, M. (1996).</a> for more details).
-<body>
-<p>
+  Centauri A and B (See ref [<a href="https://arxiv.org/abs/astro-ph/9609106"> 1.</a>] for more details).:
 
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>MathJax example</title>
-  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  <script id="MathJax-script" async
-          src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-  </script>
-</head>
-<body>
-<p>  
   In this project, we do not wish to work with this approximation. That means we need to solve numerically the system of coupled equations in order to extract
-  the orbits of the bodies. The equation of motion of each \(i\)-th body in the system is given by the Einstein-Infeld-Hoffmann equation <a href="https://doi.org/10.2307%2F1968714">Einstein, A., Infeld, L. & Hoffmann, B. (1938).</a>
+  the orbits of the bodies. The equation of motion of each \(i\)-th body in the system is given by the Einstein-Infeld-Hoffmann equation [<a href="https://doi.org/10.2307%2F1968714">2</a>]
   
   \[ \vec{a}_i = \sum_{i \neq j}{G m_j \vec{n}_{ij} \over r_{ij}^2} + {1 \over c^2} \sum_{i \neq j} {G m_j \vec{n}_{ij} \over r_{ij}^2} {\left[v_{i}^2 + 2v_{j}^2
   - 4 \left( \vec{v}_i \cdot \vec{v}_j \right) - {3 \over 2} \left( \vec{n}_{ij} \cdot \vec{v}_j \right)^2 - 4 \sum_{k \neq i} {G m_k \over r_{ik}} - \right.}\]
@@ -83,8 +69,7 @@ if you have both python2 and python3 on your personal machine.
 <h1>References</h1>
 
 <ul>
-  <li> <a target="_blank" href="https://www.mathjax.org/">Mathjax</a>:
-for rendering LaTeX equations in HTML;</li>
+  <li> Wiegert, P. A., & Holman, M. (1996). The stability of planets in the Alpha Centauri system. arXiv preprint <a href="https://arxiv.org/abs/astro-ph/9609106"> astro-ph/9609106.</a>;</li>
   <li><a target="_blank" href="https://github.com/jekyll/jekyll">Jekyll</a>:
 for rendering and editing of our webpage.</li>
   <li><a target="_blank" href="https://en.wikipedia.org/wiki/Einstein%E2%80%93Infeld%E2%80%93Hoffmann_equations">Einstein–Infeld–Hoffmann equations.</a>
