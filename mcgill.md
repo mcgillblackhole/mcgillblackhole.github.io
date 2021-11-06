@@ -38,25 +38,20 @@ Test
   
 <h3 style="color: #008080;display:inline">References</h3> 
   
-* <a target="_blank" href="https://www.mathjax.org/">Mathjax</a>:
-for rendering LaTeX equations in HTML;
+* 
 
-* <a target="_blank" href="https://github.com/jekyll/jekyll">Jekyll</a>:
-for rendering and editing of our webpage.
+*
 
 
   
 <h1>Climate Change</h1>
 
 <ul>
-  <li> <a target="_blank" href="https://q4climate.github.io/">Q4 Climate</a>:
-an inspiring initiative uniting research communities from quantum and climate science, involving industry, government and academia on how emerging quantum technologies are able to reduce or mitigate the climate crisis.
+  <li> <a target="_blank" href="https://www.mathjax.org/">Mathjax</a>:
+for rendering LaTeX equations in HTML;
     <ul>
-      <li><a target="_blank" href="https://arxiv.org/abs/2107.05362">Quantum technologies for climate change: Preliminary assessment (arXiv:2107.05362). </a></li>
-    </ul>
-  <li> <a target="_blank" href="https://www.climatechange.ai/">Climate Change AI</a>: initiative promoting impactful research at the intersection of climate change and artificial intelligence.
-    <ul>
-      <li><a target="_blank" href="https://arxiv.org/abs/1906.05433"> Tackling Climate Change with Machine Learning (arXiv:1906.05433). </a></li>
+      <li><a target="_blank" href="https://github.com/jekyll/jekyll">Jekyll</a>:
+for rendering and editing of our webpage.</li>
     </ul>
 
     
