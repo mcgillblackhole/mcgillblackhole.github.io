@@ -50,7 +50,7 @@ title: Theory
   
   \[g_{\mu \nu} = \eta_{\mu \nu} + h_{\mu \nu} \],
   
-  where \eta_{\mu \nu} describes a flat spacetime and each component of h_{\mu \nu} \] is small.  Under that first order circunstances of a very far source, the Einstein equation can be rewritten as
+  where \eta_{\mu \nu} describes a flat spacetime and each component of \(h_{\mu \nu} \) is small.  Under that first order circunstances of a very far source, the Einstein equation can be rewritten as
   
   \[h_{\mu \nu} = -{16 \pi G \over c^4 r} \int T_{\mu \nu}(ct - r, \vec{y}) d^3 y , \]
   
