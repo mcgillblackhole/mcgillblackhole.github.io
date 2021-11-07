@@ -166,11 +166,6 @@ def plot_solution(self, fig, x_1, y_1, z_1, t, x_2, y_2, z_2, x_3, y_3, z_3,
     ax1.set_ylim(-2, 2)
     ax1.set_zlim(-2, 2)
     
-    # # set axis labels
-    # ax1.set_xlabel('X', fontsize=10)
-    # ax1.set_ylabel('Y', fontsize=10)
-    # ax1.set_zlabel('Z', fontsize=10)
-    
     # remove tick labels 
     ax1.set_yticklabels([])
     ax1.set_xticklabels([])
@@ -293,10 +288,7 @@ def plot_solution(self, fig, x_1, y_1, z_1, t, x_2, y_2, z_2, x_3, y_3, z_3,
     # instantiate the animator
     global ani
     ani = FuncAnimation(fig, update, frames=np.size(x_1), interval=0, blit=True)
-    #ani.event_source.stop()
-    # save as mp4. This requires mplayer or ffmpeg to be installed
-    # anim.save('RosslerAttractor.mp4', fps=15, extra_args=['-vcodec', 'libx264'])
-    
+
 # --------------------------------------------------------------------------------- #
 
 class Widget(QtWidgets.QWidget):
