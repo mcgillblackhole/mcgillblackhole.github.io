@@ -37,7 +37,7 @@ You can then watch the simulation until the end, or select "Stop simulation" to 
 </p>
 This isn't the end of the story! There are a plethora of orbits at reference 4 where you can explore our source code if you want to make adptations. 
 
-<img style="width:70%;" src="images/manual1.png" alt="Logo" class = "center" />
+<img style="width:100%;" src="images/manual1.png" alt="Logo" class = "center" />
 
 <hr style="border: 1px solid" noshade>
   
