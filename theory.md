@@ -52,11 +52,11 @@ title: Theory
   
   where \eta_{\mu \nu} describes a flat spacetime and each component of h_{\mu \nu} \] is small.  Under that first order circunstances of a very far source, the Einstein equation can be rewritten as
   
-  \[h_{\mu \nu} = {-16 \pi G \over c^4 r} \int T_{\mu \nu}(ct - r, \vec{y}) d^3 y , \]
+  \[h_{\mu \nu} = -{16 \pi G \over c^4 r} \int T_{\mu \nu}(ct - r, \vec{y}) d^3 y , \]
   
   where r is the distance to the source. Integrating the right hand side of this equation and rearanging, we obtain the components of the perturbation:
   
-  \[ h_{00} = {G M \over c^4 r} \]
+  \[ h_{00} = -{4G M \over c^4 r} \]
   \[ h_{0i} = h_{i0} = P \]
   \[ h_{ij} = -{2G \over c^4 r} {d^2 \over dt^2} I_{ij}(ct-r) \]
   
