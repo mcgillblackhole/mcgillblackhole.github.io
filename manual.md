@@ -25,7 +25,7 @@ After installing the prerequisites, you only need to download our main code from
 enter the directory, and run the main code via "python 3_body_newton.py".
 <h2>Manual of our simulator </h2>
 
-<p style="text-align:justify"> We've made one intuitive interactive window so that you can focus primarily on the physics of the problem. You can select one of our preconfigured orbits (from stable and famous
+<p style="text-align:justify"> We've made one interactive window so that you can focus primarily on the physics of the problem. You can select one of our preconfigured orbits (from stable and famous
 configurations such as the figure 8 to marginally stable (M) and unstable orbits (U)) in the first box of our panel. The code takes about 10-15 seconds to solve the differential equations and plot it on the main pannel.
 You can then watch the simulation until the end, or select "Stop simulation" to test other configurations. </p>
 
@@ -37,7 +37,7 @@ You can then watch the simulation until the end, or select "Stop simulation" to 
 </p>
 This isn't the end of the story! There are a plethora of orbits at reference 4 where you can explore our source code if you want to make adptations. 
 
-<img style="width:100%;" src="images/manual1.png" alt="Logo" class = "center" />
+<img style="width:100%;" src="images/manual1.png" class = "center" />
 
 <hr style="border: 1px solid" noshade>
   
