@@ -1,74 +1,71 @@
 ---
-title: Publications
+title: Theory
 ---
 
-<!-- <link rel="stylesheet" href="style.scss"> -->
+<h2>Physics behind the project</h2>
 
-<!-- (setq markdown-css-paths '("../style.scss")) -->
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>MathJax example</title>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script id="MathJax-script" async
+          src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+  </script>
+</head>
+<body>
+<p>
+  The three-body problem is famous for being a chaotic system without analytical solution. A simple example of three-body systems is
+  the description of the Earth-Sun-Jupiter orbits. Usually in this type of situation, physicists ignore the mass of the Earth, since both
+  Jupiter and the Sun are more massive. Another three-body system that is usually approximated to a two body system is the Alpha Centauri star system.
+  The system is composed of Alpha Centauri A, B and C. However, Alpha Centauri C (also known as Proxima Centauri) mass is only 0.122 solar masses
+  (denoted by \(M_\odot\) ), while the masses of Alpha Centauri A and B are 1.1 \(M_\odot\) and 0.907 \(M_\odot\), respectively. Furthermore, Proxima Centauri
+  appears to be far away from the first two, not influencing their dynamics significantly. The system is then approximated to a binary sistem of Alpha
+  Centauri A and B (See ref [<a href="https://arxiv.org/abs/astro-ph/9609106"> 1</a>] for more details).<br>
+
+  In this project, we do not wish to work with this approximation. That means we need to solve numerically the system of coupled equations in order to extract
+  the orbits of the bodies. The equation of motion of each \(i\)-th body in the system is given by the Einstein-Infeld-Hoffmann equation [<a href="https://doi.org/10.2307%2F1968714">2</a>]
+  
+  \[ \vec{a}_i = \sum_{i \neq j}{G m_j \vec{n}_{ij} \over r_{ij}^2} + {1 \over c^2} \sum_{i \neq j} {G m_j \vec{n}_{ij} \over r_{ij}^2} {\left[v_{i}^2 + 2v_{j}^2
+  - 4 \left( \vec{v}_i \cdot \vec{v}_j \right) - {3 \over 2} \left( \vec{n}_{ij} \cdot \vec{v}_j \right)^2 - 4 \sum_{k \neq i} {G m_k \over r_{ik}} - \right.}\]
+  \[{\left. - \sum_{j \neq k} {G m_k \over r_{jk}} + {1 \over 2} \left( \left( \vec{r}_j - \vec{r}_i \right) \cdot \vec{a}_j \right) \right]} + {1 \over c^2}
+  \sum_{i \neq j} {G m_j \over r_{ij}^2} \left[ \vec{n}_{ij} \cdot \left(4 \vec{v}_i - 3 \vec{v}_j \right) \right] \left( \vec{v}_i - \vec{v}_j \right) + \]
+  \[+ {7 \over 2 c^2} \sum_{i \neq j} {G m_j \vec{a}_{j} \over r_{ij}^2} + \mathcal{O}\left( c^{-4} \right)\]
+  
+  This is a pretty complicated equation, the acceleration of the \(i\)-th body depends on the acceleration of the others \(j\)-th bodies and it
+  also depends on the velocities and the positions of all other \(j\)-th bodies, where \(i \neq j\). In our case, the total number of orbiting bodies is 3. The
+  \(\vec{n}_{ij}\) vector is the unit vector pointing from the \(i\)-th body to the \(j\)-th body. We then have 3 equations like this one, one for each body.<br>
+  <br>
+  
+  In order to solve all three equations, we set initial conditions and the constant parameters (\(G, m_1, m_2, m_3\)). Since this is a relativistic problem, we may
+  expect some gravitation waves being emitted from the orbital motion of the three bodies (just like the two black holes merger that provided the first gravitational
+  wave detection [<a target="_blank" href="https://doi.org/10.1103/PhysRevLett.116.061102">3</a>]). The emission of gravitational waves close to the emitting source
+  is a very complex problem. In our project, we are interested in how we see this gravitational waves from a frame of reference far way from the source. We may think
+  of this consideration as equivallent to measuring gravitational waves here on Earth from the other side of the galaxy. Therefore, we may consider only the first
+  order of approximation from the multipole expansion using perturbation theory.
+  
+  When considering the emission of gravitational waves, we are talking about a perturbation on the metric tensor \(g_{\mu \nu}\) that describes space-time
+  
+  \[G_{\mu \nu} = {8 \pi \over c^4} T_{\mu \nu} \]
+  
+  where the metric is contained inside \(G_{\mu \nu}\). We first...
+  
+  \[g_{\mu \nu} = \eta_{\mu \nu} + h_{\mu \nu} \]
+  
+  Then mathemagic happens and boom
+<p>
+<body>
 
 
-<h1 style="color: #008080;" id=bc>Book Chapters</h1>
-
-<!-- <hr  noshade> -->
+<h1>References</h1>
 
 <ol>
-<li><a target="_blank" href="https://www.researchgate.net/publication/339663922_UNDERSTANDING_THE_SCHRODINGER_EQUATION_SOME_NONLINEAR_PERSPECTIVES"><i>The Schrödinger Equation Written in the Second Quantization Formalism: Derivation from First Principles</i></a>. In: Valentino A. Simpao; Hunter C. Little. (Org.). Understanding the Schrödinger Equation: Some [Non]Linear Perspectives. 1ed. New York: Nova Science Publishers, Inc., 2020, v. 2, p. 19-36. <br>
-<font size=2>L.S.F. Olavo ; <b>S. S. João Augusto </b>; FERREIRA, M. <!--(<a target="_blank" href="https://www.researchgate.net/publication/339640689_Non-monotonous_behavior_of_the_number_variance_Mandel_factor_invariant_uncertainty_product_and_purity_for_the_quantum_damped_harmonic_oscillator">Full text here</a>)--></font></li>
+  <li> Wiegert, P. A., & Holman, M. (1996). The stability of planets in the Alpha Centauri system. arXiv preprint <a href="https://arxiv.org/abs/astro-ph/9609106"> astro-ph/9609106</a>;</li>
+  <li>Einstein, A., Infeld, L., & Hoffmann, B. (1938). The gravitational equations and the problem of motion. Annals of mathematics, 65-100. <a href="https://doi.org/10.2307%2F1968714"> doi:10.2307/1968714</a>;</li>
+  <li>Abbott, B. P., Abbott, R., Abbott, T. D., Abernathy, M. R., Acernese, F., Ackley, K., ... & Cavalieri, R. (2016). Observation of gravitational waves from a binary black hole merger. 
+    Physical review letters, 116(6), 061102.<a target="_blank" href="https://doi.org/10.1103/PhysRevLett.116.061102">doi:10.1103/PhysRevLett.116.061102.</a></li>
+  <li>Li, X., Jing, Y., & Liao, S. (2018). Over a thousand new periodic orbits of a planar three-body system with unequal masses. Publications of the Astronomical
+    Society of Japan, 70(4), 64.<a target="_blank" href="https://doi.org/10.1093/pasj/psy057">doi:10.1093/pasj/psy057.</a></li>
+  <li>Dmitrašinović, V., Šuvakov, M., & Hudomal, A. (2014). Gravitational waves from periodic three-body systems. Physical review letters, 113(10), 101102.<a target="_blank" href="https://doi.org/10.1103/PhysRevLett.113.101102">doi:10.1103/PhysRevLett.113.101102</a></li>
 </ol>
-
-<!-- <ol>
-<li><a target="_blank" href="https://www.sciencedirect.com/science/article/abs/pii/S0375960120301894"><i>Non-monotonous behavior of the number variance, Mandel factor, invariant uncertainty product and purity for the quantum damped harmonic oscillator</i></a>. Physics Letters A.  Volume 384, Issue 17, 15 June 2020, 126370. <br>
-<font size=2><b>J.P. Valeriano</b>, V.V. Dodonov. (<a target="_blank" href="https://www.researchgate.net/publication/339640689_Non-monotonous_behavior_of_the_number_variance_Mandel_factor_invariant_uncertainty_product_and_purity_for_the_quantum_damped_harmonic_oscillator">Full text here</a>)</font></li>
-</ol> -->
-
-<!--<hr style="border: 1px solid" noshade> -->
-
-<h1 style="color: #008080;">Papers in Education </h1>
-
-<!-- <hr  noshade> -->
-
-<ol><li><a target="_blank" href="https://periodicos.unb.br/index.php/rpf/article/view/36954"><i>The Schrödinger equation written in the second quantization formalism: derivation from first principles </i></a>. Revista do Professor de Física, v. 5, p. 24-39, 2021. 
-<br>
-<font size=2>L.S.F. Olavo ; <b>S. S. João Augusto </b>; FERREIRA, M. .</font></li>
-</ol> 
-
-<!--<h1>Conference Papers</h1> -->
-
-<!-- <hr  noshade> -->
-
-<!-- <ol><li><a target="_blank" href="https://www.researchgate.net/publication/349899431_Analysis_of_informative_priors'_effects_on_epidemic_curve_fitting"><i>Analysis of informative priors' effects on epidemic curve fitting</i></a>. Encontro Acadêmico de Modelagem Computacional. National Laboratory for Scientific Computing, Petrópolis, RJ, Brazil.
-<br>
-<font size=2>F.F. Nunes, <b>J.P. Valeriano</b>, <a target="_blank" href="https://sites.google.com/view/pedrocintra/">P.H.P. Cintra</a>, I. Reis, L. Lima, T.L.S. Alves.</font></li>
-</ol> -->
-
-<hr style="border: 1px solid" noshade>
-
-<h1>Unpublished Material</h1>
-
-<!-- <hr noshade> -->
-
-* <h2 style="color: #339E66F;" id="tcc"> Undergraduate Dissertation (Portuguese):</h2>
-<h3>Decay of accelerated fermions, Unruh Effect and applications in the semi-classical regime</h3>
-<font size=2><b>J.A.S. Silva</b>. Supervisor: <a targe="_blank" href="https://www.fis.unb.br/index.php?option=com_myjspace&view=see&pagename=clovis">C. A. S. Maia.</a> Universidade de Brasília.</font>
-<div style="text-align: justify">In an introduction to quantum field theory, brief notions in curved spaces and to the
-phenomenology of elementary particles, a revision work was developed focusing on the
-comprehension of the Unruh Effect in its necessity for the consistency of quantum field
-theory itself when considering the decay of uniformly accelerated fermions, both in an
-inertial reference frame and in the Rindler wedge frame. Considering particles through
-the formalism of semi-classical currents, another topic of study was the influence of grav-
-itational fields in cooling mechanisms of neutron stars and the possibility of detecting
-particles that do not obey the famous dispersion relation in Earth’s vicinity. <a target="_blank" href="../files/undergrad-thesis-joao.pdf">View PDF here.</a></div>
-
-
-<!--
-<hr noshade>
-
-* <h2 id="cnpem">Scientific Reports for Internships at Brazilian Synchrotron Light Lab (LNLS) (Portuguese):</h2>
-<h3>Instrumentation for the Study of the Electrocaloric and the Electrostrictive Effcts</h3>
-<font size=2><b>J.P. Valeriano</b>. Supervisor: A.M.G. Carvalho, Co-supervisor: L.S.O. Paixão, LNLS/CPNEM.</font>
-<div size=2 style="text-align: justify">Project developed during 2018 <a target="_blank" href="https://pages.cnpem.br/bolsasdeverao/">CNPEM Summer Scholarships Program</a>.</div> 
-<div style="text-align: justify">This report presents the beginning of instrumentation development
-for the study the electrocaloric effect and the electrostriction of samples of PVDF and PMN–10PT, by the research groups of the XRD1 beamline and the i-Caloric Materials Lab (LMiC), at LNLS, at CNPEM. Attempts were made to measure electrocalori effect directly, with a thermocouple directly attached to the samples, but no temperature variation was observed with the electric fields application. The prototype of a modified Sawyer–Tower circuit was developed to measure electric polarization, that still needs improvements to operate with the low capacitance samples, and will allow indirect measurements of temperature and entropy variations related to the electrocaloric effect. Electrostriction measurements were made through X ray diffraction with changing electric fields, and small strain results were obtained for the PVDF. <a target="_blank" href="../files/Relatorio_28o_PBV-joao_valeriano.pdf">View PDF here.</a></div>
-
-<hr style="border: 1px solid" noshade>
--->
