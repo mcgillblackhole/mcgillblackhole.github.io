@@ -57,7 +57,7 @@ title: Theory
   where r is the distance to the source. Integrating the right hand side of this equation and rearanging, we obtain the components of the perturbation:
   
   \[ h_{00} = -{4G M \over c^4 r} \]
-  \[ h_{0i} = h_{i0} \propto P \]
+  \[ h_{0i} = h_{i0} \propto P_{i} \]
   \[ h_{ij} = -{2G \over c^4 r} {d^2 \over dt^2} I_{ij}(ct-r) \]
   
   Where \(M\) is the total mass of the system, \(P\) is the total momentum and \(I_{ij}\) is the quadrupole tensor. By a frame diffeomorphism transformation we may set
