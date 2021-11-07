@@ -63,13 +63,13 @@ title: Theory
   Where \(M\) is the total mass of the system, \(P\) is the total momentum and \(I_{ij}\) is the quadrupole tensor. By a frame diffeomorphism transformation we may set
   \(P = 0\) and the only components of \(h_{\mu \nu}\) that are non-zero and dynamic are the usual \(h_{ij}\) [<a target="_blank" href="https://doi.org/10.1103/PhysRevLett.113.101102">5</a>]. The quadrupole momentum tensor for a trio of point particles is given by the following sum over their trajectories
   
-  I^{i j}(ct - r) = \sum_{k = 0}^{3} m_{k} x^{i}_{k}(ct - r) x^{j}_{k}(ct - r),
+  \[I^{i j}(ct - r) = \sum_{k = 0}^{3} m_{k} x^{i}_{k}(ct - r) x^{j}_{k}(ct - r),\]
   
   and the components of the gravitational waves are finally given by
   
-  h^{i j}(t,r) = -{2G \over c^4 r} \sum_{k = 0}^{3} m_{k} {d^2 \over dt^2} (x^{i}_{k}(ct - r) x^{j}_{k}(ct - r)) \].
+  \[h^{i j}(t,r) = -{2G \over c^4 r} \sum_{k = 0}^{3} m_{k} {d^2 \over dt^2} (x^{i}_{k}(ct - r) x^{j}_{k}(ct - r)) \].
   
-  It is interesting to notice that the perturbation tensor calculation depends on ct - r, and this is because the field equations imply that gravitational waves travels at the speed of light, so a point in spacetime at the instant t and point r can only be influenced by gravitational waves emitted at the surface of its past light cone, as we should expect from causality.
+  It is interesting to notice that the perturbation tensor calculation depends on \(ct - r\), and this is because the field equations imply that gravitational waves travels at the speed of light, so a point in spacetime at the instant t and point r can only be influenced by gravitational waves emitted at the surface of its past light cone, as we should expect from causality.
   
 </p>
 <body>
