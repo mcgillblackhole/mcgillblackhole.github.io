@@ -1,68 +1,48 @@
 ---
 title: About 
 ---
+<h2> Prerequisites </h2>
 
-<h1 style="color: #00203FFF;"> Hi and Welcome! :) </h1>
-
-<p style="text-align:justify"> I'm a physics master's student at (<a href="https://www2.ifsc.usp.br/english/">IFSC</a>) at the University of São Paulo, São Carlos, Brazil, currently working on the study of spin liquids using numerical and analytical techniques such as the Variational Monte Carlo and mean field theories. In general, my research interests lie on understanding how complex and unique phenomena may emerge from interactions between <i>(almost)</i> fundamental blocks of nature, i.e., quasiparticles and particles; for this challenging endeavor, we use established theoretical and computational methods in physics.</p>
-
-<p style="text-align:justify"> For educational purposes, after working with a diverse public for five years I discovered that I really enjoy teaching and developing innovative solutions for teaching physics in a more interesting way. There's nothing better than kindly helping others through education. Apart from Academia and in a methodological sense, software development and data analysis in a broader scope are 'my cup of tea'.   </p>
-
-
-<p style="text-align:justify"> In my spare time I find comfort reading (<a href="https://www.goodreads.com/user/show/117614351-jo-o-augusto-sobral-da-silva">goodreads</a>), cooking, playing classical and soundtrack pieces on the acoustic guitar and gazing Nature.
-<br> <br>
-
-
-<a href="http://lattes.cnpq.br/6559029217359209"> Online CV (Lattes) (Portuguese only)</a> <br>
-
-<a target="_blank" href="../files/offlinecv_en_joaoa.pdf">Offline CV (English)</a>
-
-
-<details open>
-<summary><h3 style="color: #008080;display:inline">Bachelor Degree</h3></summary> 
-
-<p style="text-align:justify">I started my studies in Physics at the University of Brasília (<a href="https://international.unb.br/">UNB</a>), Brazil in June of 2015 and ended it in December 2019. I had the opportunity to work on different year-long projects, approaching themes including:
-
-</p>
+<p style="text-align:justify"> To run our simulator you need a couple of prerequisites (matplotlib, scipy, PyQt5, numpy). The best way to install them is by using pip (if you do not have pip installed on your computer, take a look at <a target="_blank" href="https://pip.pypa.io/en/stable/installation/">this link</a>) via the command
+  
+  <ul>
+  <li> pip install matplotlib scipy pyqt5 numpy </li>
+    
+</ul>
+or
+<ul>
+    <li> pip3 install matplotlib scipy pyqt5 numpy </li>
+    </ul>
+  </p>
+if you have both python2 and python3 on your personal machine.
+After installing the prerequisites, you only need to download our main code from the github repository via 
 
 <ul>
-<li>Photo-fragmentation of amino acids from synchrotron radiation using Time-of-flight spectroscopy (<a target="_blank" href="../files/final-report-spec.pdf">Final report in portuguese)</a>;</li>
-<li>
-Optimization of potential energy curves for diatomic molecules in atomic and molecular physics via genetic algorithms (<a target="_blank" href="../files/final-report-ga.pdf">Final report in portuguese)</a>;</li>
-<li>Derivation from first principles of the Schrödinger Equation for a particular interpretation of Quantum Mechanics (<a href="../publications#bc">Book Chapter</a>); </li>
-<li>Particle physics phenomena in the context of quantum field theory in curved spaces (<a href="../publications#tcc">Undergraduate thesis</a>).</li>
-</ul>
+    <li> git clone https://github.com/mcgill3body/3bodyrelativistic </li>
+    </ul>
+  </p>
 
-</details>
+and run the main code via "python 3_body_newton.py".
+<h2>Manual of our simulator </h2>
 
-<details open>
-<summary><h3 style="color:#008080;display:inline">Master Degree</h3></summary>
+<p style="text-align:justify"> We've made one intuitive interactive window so that you can focus primarily on the physics of the problem. You can select one of our preconfigured orbits (from stable and famous
+configurations such as the figure 8 to marginally stable (M) and unstable orbits (U)) in the first box of our panel. The code takes about 10-15 seconds to solve the differential equations and plot it on the main pannel.
+You can then watch the simulation until the end, or select "Stop simulation" to test other configurations. </p>
 
-<p style="text-align:justify">Since January 2020, I'm working with spin liquids in <a href="https://sites.google.com/site/castroeandrade"> Eric C. Andrade's group </a>at the University of São Paulo, São Carlos, Brazil.  Here's a brief summary of what I've been learning:
+<p style="text-align:justify"> In the main pannel you'll be able to see the famous classical orbits obtained only from Newton's equations of gravity side-by-side with the orbits obtained
+  with the relativistic corrections via the Einstein–Infeld–Hoffmann equations. The orbit plots aren't fixed in order to encourage exploring different points of view from the orbits:
+ just click and drag the mouse around the orbits in each plot. </p>
+
+<p style="text-align:justify"> You can also have fun by selecting specific masses for each body and clicking the button "Ready, Set, Go!" to generate a randomized configuration (for position and velocity) with the choosen masses.
 </p>
+This isn't the end of the story! There are a plethora of orbits at reference 4 where you can explore our source code if you want to make adptations. 
 
-We investigate how spin liquids can be understood over the scope of Parton construction and projected wave functions. The main idea is to decompose the spin degrees of freedom into bosonic or fermionic (Dirac or Majorana) ones constrained by a physical condition. Although Mean field theories are restrictive in the sense that the physical constraint is only imposed on average in the decoupling procedure, they are used to motivate the possible ansätze that may describe the physical ground state of a system described by an effective Hamiltonian motivated by experiments. Numerical techniques such as the Variational Monte Carlo are interesting since they impose the condition exactly at each site, furnishing an environment to learn about competitive phases on frustrated magnetism. We are applying these techniques to a putative chiral spin liquid on the kagome lattice in a collaboration with <a href="https://www.iip.ufrn.br/qiqm/people/our-group/rodrigo-pereira/"> Rodrigo Pereira's group </a> at IIP, Natal.
-<br>
-<br>
-  
-<!--
-<a target="_blank" href="../files/jasbf2021.pdf">Poster</a> presentation at the <a href="http://sbfisica.org.br/~eosbf/2021/index.php/pt/"> Autumn Meeting of the Brazilian Physical Society 2021 </a> <br>
-  
-<a target="_blank" href="../files/posterSIFSC11.pdf">Poster</a> presentation at the <a href="https://sifsc.ifsc.usp.br/"> Semana Integrada da Graduação e Pós-Graduação do Instituto de Física de São Carlos 2021:</a>
-
-<ul>
-<li>  <a href="https://www.youtube.com/watch?v=JE6LxKKkF-A"> Presentation </a> at youtube (portuguese only).</li>
-</ul>
-<div style="text-align: center;">
-
-  <img src="../images/bitmap.png"  style="width: 55vw;height: auto;" >
-
-</div> -->
-
-</details>
-
+<img style="width:70%;" src="images/manual1.png" alt="Logo" class = "center" />
 
 <hr style="border: 1px solid" noshade>
+  
 
-<h1>This Homepage</h1>
-<p style="text-align:justify">This website was inspired by the one of my good friend <a href="https://joaovaleriano.github.io/">João Pedro Valeriano</a>, which is based on the <a href="https://github.com/barryclark/jekyll-now">Jekyll Now</a> blog template (available under the <a href="https://opensource.org/licenses/MIT">MIT Licence</a>), by <a href="https://github.com/barryclark">Barry Clark</a>.</p>
+
+<h3>This Homepage</h3>
+<p style="text-align:justify">@2021 
+  This website was done by <a href="https://joaosds.github.io/">João Augusto</a>, <a href="https://github.com/PedroHPCintra">Pedro Cintra</a>,  <a href="https://github.com/FeradoFogo">Felipe Fontinele</a>, <a href="https://github.com/Igorreis">Igor Reis</a> and <a href="https://github.com/vitordmeireles">Vitor Dantas</a> for McGill Physics Hackathon 2021. The website is based on the <a href="https://github.com/barryclark/jekyll-now">Jekyll Now</a> blog template (available under the <a href="https://opensource.org/licenses/MIT">MIT Licence</a>), by <a href="https://github.com/barryclark">Barry Clark</a>.</p>
