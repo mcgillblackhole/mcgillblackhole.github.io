@@ -18,11 +18,11 @@ if you have both python2 and python3 on your personal machine.
 After installing the prerequisites, you only need to download our main code from the github repository via 
 
 <ul>
-    <li> git clone https://github.com/mcgill3body/3bodyrelativistic </li>
+    <li> git clone https://github.com/mcgill3body/mcgill3body.github.io/tree/master/sourcecode </li>
     </ul>
   </p>
 
-and run the main code via "python 3_body_newton.py".
+enter the directory, and run the main code via "python 3_body_newton.py".
 <h2>Manual of our simulator </h2>
 
 <p style="text-align:justify"> We've made one intuitive interactive window so that you can focus primarily on the physics of the problem. You can select one of our preconfigured orbits (from stable and famous
