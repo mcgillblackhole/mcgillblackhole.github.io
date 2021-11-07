@@ -52,7 +52,18 @@ title: Theory
   
   \[g_{\mu \nu} = \eta_{\mu \nu} + h_{\mu \nu} \]
   
-  Then mathemagic happens and boom </p>
+  The \(h_{\mu \nu}\) may be decomposed on it's components
+  
+  \[ h_{00} = {G M \over c^4 r} \]
+  \[ h_{0i} = h_{i0} = P \]
+  \[ h_{ij} = -{2G \over c^4 r} {d^2 \over dt^2} I_{ij} \]
+  
+  Where \(M\) is the total mass of the system, \(P\) is the total momentum and \(I_{ij}\) is the quadrupole tensor. By a coordinate transformation we may set
+  \(P = 0\) and the only components of \(h_{\mu \nu}\) that are non-zero are the usual \(h_{ij}\) [<a target="_blank" href="https://doi.org/10.1103/PhysRevLett.113.101102">5</a>].
+  
+  
+  
+</p>
 <body>
 
 
