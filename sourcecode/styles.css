@@ -1,0 +1,62 @@
+/*css stylesheet file that contains all the style information*/
+
+
+QGroupBox {
+     background-color: rgb(47, 52, 63);  
+    font: bold;
+    font-size: 14px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    margin-top: 2ex; /* leave space at the top for the title */
+}
+
+QGroupBox::title {
+    subcontrol-origin: margin;
+    subcontrol-position: top center;
+    padding: 5px 8000px 5px 8000px;
+    background-color: rgb(70, 75, 83);
+    color: white;
+    font-size: 21px;
+    font-weight: bold;
+    /* background-color: #FF17365D;  */
+}
+
+QLabel {
+    color:white;
+    border: solid 2px black;
+    font: 19px Sans Serif;
+}
+
+
+/* QGroupBox  {
+    border: 1px solid gray;
+    border-color: #FF17365D;
+    margin-top: 27px;
+    font-size: 14px;
+    border-radius: 15px;
+}
+
+QGroupBox::title  {
+    subcontrol-origin: margin;
+    subcontrol-position: top center;
+    padding: 5px 8000px 5px 8000px;
+    background-color: #FF17365D;
+    color: rgb(255, 255, 255);
+} */
+/* 
+QGroupBox {
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+  
+  QGroupBox:title{
+    subcontrol-origin: margin;
+    subcontrol-position: top center;
+    padding-left: 10px;
+    padding-right: 10px; } */
+ /*  subcontrol-origin: margin;
+ /*   subcontrol-position: top center;
+    padding: 0 3px 0 3px;
+  }
+
+  
