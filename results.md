@@ -11,7 +11,8 @@
 
 <h2>Circle trajectory </h2>
 
-<img src="/images/Circle.gif" alt="Loading" title="Loading" class="center" />
+<img src="/images/Circle.gif" alt="Loading" title="Loading" class="center" width="400" 
+     height="500" />
 
 <img src="/images/Circle_GW.gif" alt="Loading" title="Loading" class="center" />
 
