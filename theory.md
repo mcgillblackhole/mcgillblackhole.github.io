@@ -15,15 +15,14 @@ title: Theory
   </script>
 </head>
 <body>
-<p>
   <p style="text-align:justify">The three-body problem is famous for being a chaotic system without analytical solution. A simple example of three-body systems is
   the description of the Earth-Sun-Jupiter orbits. Usually in this type of situation, physicists ignore the mass of the Earth, since both
   Jupiter and the Sun are more massive. Another three-body system that is usually approximated to a two body system is the Alpha Centauri star system.
   The system is composed of Alpha Centauri A, B and C. However, Alpha Centauri C (also known as Proxima Centauri) mass is only 0.122 solar masses
   (denoted by \(M_\odot\) ), while the masses of Alpha Centauri A and B are 1.1 \(M_\odot\) and 0.907 \(M_\odot\), respectively. Furthermore, Proxima Centauri
   appears to be far away from the first two, not influencing their dynamics significantly. The system is then approximated to a binary sistem of Alpha
-  Centauri A and B (See ref [<a href="https://arxiv.org/abs/astro-ph/9609106"> 1</a>] for more details).<br> </p>
-
+  Centauri A and B (See ref [<a href="https://arxiv.org/abs/astro-ph/9609106"> 1</a>] for more details). </p>
+<br>
  <p style="text-align:justify"> In this project, we do not wish to work with this approximation. That means we need to solve numerically the system of coupled equations in order to extract
   the orbits of the bodies. The equation of motion of each \(i\)-th body in the system is given by the Einstein-Infeld-Hoffmann equation [<a href="https://doi.org/10.2307%2F1968714">2</a>]
   
@@ -36,7 +35,7 @@ title: Theory
  <p style="text-align:justify"> This is a pretty complicated equation, the acceleration of the \(i\)-th body depends on the acceleration of the others \(j\)-th bodies and it
   also depends on the velocities and the positions of all other \(j\)-th bodies, where \(i \neq j\). In our case, the total number of orbiting bodies is 3. The
   \(\vec{n}_{ij}\) vector is the unit vector pointing from the \(i\)-th body to the \(j\)-th body. We then have 3 equations like this one, one for each body.<br>
-   <br> </p>
+    </p><br>
   
 <p style="text-align:justify">  In order to solve all three equations, we set initial conditions and the constant parameters (\(G, m_1, m_2, m_3\)). Since this is a relativistic problem, we may
   expect some gravitation waves being emitted from the orbital motion of the three bodies (just like the two black holes merger that provided the first gravitational
@@ -54,7 +53,6 @@ title: Theory
   \[g_{\mu \nu} = \eta_{\mu \nu} + h_{\mu \nu} \]
   
   Then mathemagic happens and boom </p>
-<p>
 <body>
 
 
