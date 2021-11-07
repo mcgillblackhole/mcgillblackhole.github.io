@@ -52,18 +52,24 @@ title: Theory
   
   where \eta_{\mu \nu} describes a flat spacetime and each component of h_{\mu \nu} \] is small.  Under that first order circunstances of a very far source, the Einstein equation can be rewritten as
   
-  \[h_{\mu \nu} = {-16 \pi G \over c^4 r} \int d^3 y T_{\mu \nu}(ct - r, \vec{y}). \]
+  \[h_{\mu \nu} = {-16 \pi G \over c^4 r} \int T_{\mu \nu}(ct - r, \vec{y}) d^3 y , \]
   
-  Integrating the right hand side of this equation and rearanging, we obtain the components of the perturbation:
+  where r is the distance to the source. Integrating the right hand side of this equation and rearanging, we obtain the components of the perturbation:
   
   \[ h_{00} = {G M \over c^4 r} \]
   \[ h_{0i} = h_{i0} = P \]
-  \[ h_{ij} = -{2G \over c^4 r} {d^2 \over dt^2} I_{ij} \]
+  \[ h_{ij} = -{2G \over c^4 r} {d^2 \over dt^2} I_{ij}(ct-r) \]
   
   Where \(M\) is the total mass of the system, \(P\) is the total momentum and \(I_{ij}\) is the quadrupole tensor. By a frame diffeomorphism transformation we may set
-  \(P = 0\) and the only components of \(h_{\mu \nu}\) that are non-zero and dynamic are the usual \(h_{ij}\) [<a target="_blank" href="https://doi.org/10.1103/PhysRevLett.113.101102">5</a>].
+  \(P = 0\) and the only components of \(h_{\mu \nu}\) that are non-zero and dynamic are the usual \(h_{ij}\) [<a target="_blank" href="https://doi.org/10.1103/PhysRevLett.113.101102">5</a>]. The quadrupole momentum tensor for a trio of point particles is given by the following sum over their trajectories
   
+  I^{i j}(ct - r) = \sum_{k = 0}^{3} m_{k} x^{i}_{k}(ct - r) x^{j}_{k}(ct - r),
   
+  and the components of the gravitational waves are finally given by
+  
+  h^{i j}(t,r) = -{2G \over c^4 r} \sum_{k = 0}^{3} m_{k} {d^2 \over dt^2} (x^{i}_{k}(ct - r) x^{j}_{k}(ct - r)) \].
+  
+  It is interesting to notice that the perturbation tensor calculation depends on ct - r, and this is because the field equations imply that gravitational waves travels at the speed of light, so a point in spacetime at the instant t and point r can only be influenced by gravitational waves emitted at the surface of its past light cone, as we should expect from causality.
   
 </p>
 <body>
