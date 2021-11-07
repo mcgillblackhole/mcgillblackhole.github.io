@@ -20,7 +20,6 @@ After installing the prerequisites, you only need to download our main code from
 <ul>
     <li> git clone https://github.com/mcgill3body/mcgill3body.github.io/tree/master/sourcecode </li>
     </ul>
-  </p>
 
 enter the directory, and run the main code via "python 3_body_newton.py".
 <h2>Manual of our simulator </h2>
@@ -37,7 +36,7 @@ You can then watch the simulation until the end, or select "Stop simulation" to 
 </p>
 This isn't the end of the story! There are a plethora of orbits at reference 4 where you can explore our source code if you want to make adptations. 
 
-<img style="width:50%;" src="mcgill/MANUAL.png" class = "center" />
+<img style="width:50%;" src="images/Print_layout_Pedro.png" class = "center" />
 
 <hr style="border: 1px solid" noshade>
   
