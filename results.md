@@ -31,7 +31,8 @@
 <img src="/images/Triquette.gif " alt="Loading" title="Loading" class="center"  width="300" 
      height="350"  />
 
-<img src="/images/Triquette_GW.gif  " alt="Loading" title="Loading" class="center" />
+<img src="/images/Triquette_GW.gif  " alt="Loading" title="Loading" class="center"  width="300" 
+     height="350"  />
 
 
 
