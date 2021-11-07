@@ -15,8 +15,8 @@ title: Theory
   </script>
 </head>
 <body>
-  <p style="text-align:justify">The three-body problem is famous for being a chaotic system without analytical solution. A simple example of three-body systems is
-  the description of the Earth-Sun-Jupiter orbits. Usually in this type of situation, physicists ignore the mass of the Earth, since both
+  <p style="text-align:justify">The three-body problem is famous for being a chaotic system without analytical solution in newtonian physics. Even more dificult is the three-body problem in General Relativity, because even the two-body system is intratable for arbitrary masses of the couple. A simple example of three-body systems is
+  the description of the Earth-Sun-Jupiter orbits. When it is possible, physicists usually ignore the least massive body (Earth, in this example), since both
   Jupiter and the Sun are more massive. Another three-body system that is usually approximated to a two body system is the Alpha Centauri star system.
   The system is composed of Alpha Centauri A, B and C. However, Alpha Centauri C (also known as Proxima Centauri) mass is only 0.122 solar masses
   (denoted by \(M_\odot\) ), while the masses of Alpha Centauri A and B are 1.1 \(M_\odot\) and 0.907 \(M_\odot\), respectively. Furthermore, Proxima Centauri
@@ -41,25 +41,27 @@ title: Theory
   expect some gravitation waves being emitted from the orbital motion of the three bodies (just like the two black holes merger that provided the first gravitational
   wave detection [<a target="_blank" href="https://doi.org/10.1103/PhysRevLett.116.061102">3</a>]). The emission of gravitational waves close to the emitting source
   is a very complex problem. In our project, we are interested in how we see this gravitational waves from a frame of reference far way from the source. We may think
-  of this consideration as equivallent to measuring gravitational waves here on Earth from the other side of the galaxy. Therefore, we may consider only the first
-  order of approximation from the multipole expansion using perturbation theory.
+  of this consideration as equivallent to measuring gravitational waves here on Earth from the other side of the galaxy, as we observe on observatories such as LIGO and LISA (in the future). Therefore, we may consider only the first
+  order of approximation from the multipole expansion using perturbation theory. The space-time dynamics in General Relativity is specified by the Einstein's equation:
   
-  When considering the emission of gravitational waves, we are talking about a perturbation on the metric tensor \(g_{\mu \nu}\) that describes space-time
+  \[G_{\mu \nu} = {8 \pi G \over c^4} T_{\mu \nu} \]
   
-  \[G_{\mu \nu} = {8 \pi \over c^4} T_{\mu \nu} \]
+  where the tensor \(G_{\mu \nu}\) is a function of the metric. When considering the emission of gravitational waves, we are talking about a little perturbation on the metric tensor \(g_{\mu \nu}\) that describes the correspondent space-time.Therefore, the metric can be decomposed as 
   
-  where the metric is contained inside \(G_{\mu \nu}\). We first...
+  \[g_{\mu \nu} = \eta_{\mu \nu} + h_{\mu \nu} \],
   
-  \[g_{\mu \nu} = \eta_{\mu \nu} + h_{\mu \nu} \]
+  where \eta_{\mu \nu} describes a flat spacetime and each component of h_{\mu \nu} \] is small.  Under that first order circunstances of a very far source, the Einstein equation can be rewritten as
   
-  The \(h_{\mu \nu}\) may be decomposed on it's components
+  \[h_{\mu \nu} = {-16 \pi G \over c^4 r} \int d^3 y T_{\mu \nu}(ct - r, \vec{y}). \]
+  
+  Integrating the right hand side of this equation and rearanging, we obtain the components of the perturbation:
   
   \[ h_{00} = {G M \over c^4 r} \]
   \[ h_{0i} = h_{i0} = P \]
   \[ h_{ij} = -{2G \over c^4 r} {d^2 \over dt^2} I_{ij} \]
   
-  Where \(M\) is the total mass of the system, \(P\) is the total momentum and \(I_{ij}\) is the quadrupole tensor. By a coordinate transformation we may set
-  \(P = 0\) and the only components of \(h_{\mu \nu}\) that are non-zero are the usual \(h_{ij}\) [<a target="_blank" href="https://doi.org/10.1103/PhysRevLett.113.101102">5</a>].
+  Where \(M\) is the total mass of the system, \(P\) is the total momentum and \(I_{ij}\) is the quadrupole tensor. By a frame diffeomorphism transformation we may set
+  \(P = 0\) and the only components of \(h_{\mu \nu}\) that are non-zero and dynamic are the usual \(h_{ij}\) [<a target="_blank" href="https://doi.org/10.1103/PhysRevLett.113.101102">5</a>].
   
   
   
