@@ -1,5 +1,5 @@
 ---
-title: About 
+title: Manual
 ---
 <h2> Prerequisites </h2>
 
