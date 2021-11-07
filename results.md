@@ -28,8 +28,8 @@
 
 <h2>Triquette </h2>
 
-<img src="/images/Triquette.gif " alt="Loading" title="Loading" class="center"  width="400" 
-     height="500"  />
+<img src="/images/Triquette.gif " alt="Loading" title="Loading" class="center"  width="350" 
+     height="400"  />
 
 <img src="/images/Triquette_GW.gif  " alt="Loading" title="Loading" class="center" />
 
