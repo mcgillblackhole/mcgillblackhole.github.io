@@ -15,7 +15,7 @@ title: Theory
   </script>
 </head>
 <body>
-  <p style="text-align:justify">Black Holes have always been objects of interest to everyone, from scientists to lovers of science fiction. Even though these objects were proposed some decadesa go, it was only recently that we were finnaly able to observe them in the Event Horizon Collaboration, and with these new images, the interest in them seems to have been rekindled, our interest included. So, we decided to work trying to simulate the photograph of a Black Hole, something that was already proposed many years ago (as a reference, check [<a href="https://arxiv.org/abs/astro-ph/9609106">1</a>]) and that can reproduce results very similar to the ones captured by the telescopes here on Earth.</p>
+  <p style="text-align:justify">Black Holes have always been objects of interest to everyone, from scientists to lovers of science fiction. Even though these objects were proposed some decadesa go, it was only recently that we were finnaly able to observe them in the Event Horizon Collaboration, and with these new images, the interest in them seems to have been rekindled, our interest included. So, we decided to work trying to simulate the photograph of a Black Hole, something that was already proposed many years ago (as a reference, check [<a href="https://ui.adsabs.harvard.edu/abs/1979A%26A....75..228L/abstract">1</a>]) and that can reproduce results very similar to the ones captured by the telescopes here on Earth.</p>
 <br>
  <p style="text-align:justify"> In this project, we consider only Schwarszchild Black Holes, with metric given by
    
@@ -35,9 +35,12 @@ and with \(u = 1/r\)</p>
     
    and use this expression to find contours as the following.</p>
 
-  
+  <p style="text-align:justify">So everything that we did so far has already helped us to have a glance at how the physics works in our system, and how and observer would see it, in a way. Now, what if we would like to get a picture of the black hole, and not only the contours of our level curves? We need to find a way to popagate the photons of the accretion disk of the black hole up to the observer, and luckly, there are already some results that can help up. Page and Thorne [<a href="https://ui.adsabs.harvard.edu/abs/1974ApJ...191..499P/abstract">2</a>] found the flux of radiation from the surface of the disk, given by </p>
 
    $$F_{s} = \frac{3M\dot{M}}{8\pi}\frac{1}{(r^* - 3)r^{*5/2}}\left[ \sqrt{r^{*}} - \sqrt{6} + \frac{\sqrt{3}}{3}log\left\{ \frac{(\sqrt{r^{*}} + \sqrt{3})(\sqrt{6} - \sqrt{3})}{(\sqrt{r^{*}} - \sqrt{3})(\sqrt{6} + \sqrt{3})} \right\} \right]$$
+  
+  where \(\dot{M}\) is the accretion rate and \(r^{*}\) is the radius of the gas element.
+  
 
    $$1+z = (1-3\frac{M}{r})^{-1/2}(1+\left(\frac{M}{r^{3}}\right)^{1/2}b\sin(\theta)\sin(\alpha)$$
   
