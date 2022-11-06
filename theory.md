@@ -49,7 +49,11 @@ and with \(u = 1/r\)</p>
 
    $$F_{s} = \frac{3M\dot{M}}{8\pi}\frac{1}{(r^* - 3)r^{*5/2}}\left[ \sqrt{r^{*}} - \sqrt{6} + \frac{\sqrt{3}}{3}log\left\{ \frac{(\sqrt{r^{*}} + \sqrt{3})(\sqrt{6} - \sqrt{3})}{(\sqrt{r^{*}} - \sqrt{3})(\sqrt{6} + \sqrt{3})} \right\} \right],$$
   
-  where \(\dot{M}\) is the accretion rate and \(r^{*}\) is the radius of the gas element.</p>
+  where \(\dot{M}\) is the accretion rate and \(r^{*}\) is the radius of the gas element. However that is not going to be the observed flux for our spacial photographer. To find the flux that he is going to measure we need to take into account the loss of energy suffered by each photon redshift, the lower measured rate of arrivel of photons due to time dilation and the relativistic correction to solid angle measurements. In the end, the real observed flux is going to be
+  
+  $$F_{s}^{real} = \frac{F_{s}}{(1+z)^{4}}$$
+  
+  
   
 
    $$1+z = (1-3\frac{M}{r})^{-1/2}(1+\left(\frac{M}{r^{3}}\right)^{1/2}b\sin(\theta)\sin(\alpha)$$
