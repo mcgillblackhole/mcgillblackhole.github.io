@@ -31,7 +31,7 @@ and with \(u = 1/r\)</p>
    
   <p style="text-align:justify">Solving this equation we can find the lightlike geodesics we are interested in, as shown in the figure bellow. 
     
-    <img src="/images/trajectories_9900.png" alt="Loading" title="Loading" class="center" />
+   <img src="/images/trajectories_9900.png" alt="Loading" title="Loading" class="center" />
     
     Following our reference, we can also find some expressions useful for finding level curves (contours) of the accretion disk surrounding our Black Hole. To do this, we need to perform some quite lenghty calculations and to define new variables \(b = P^{3} / (P-2M)\), \(Q^{2} = (P-2M)(P+6M)\), that relates our impact parameter \(b\) to the periastron distance \(P\). With this, and solving some elliptical integrals, we can get
   
