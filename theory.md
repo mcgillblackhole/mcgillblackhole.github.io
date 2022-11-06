@@ -26,7 +26,17 @@ title: Theory
  <p style="text-align:justify"> In this project, we do not wish to work with this approximation. That means we need to solve numerically the system of coupled equations in order to extract
   the orbits of the bodies. The equation of motion of each \(i\)-th body in the system is given by the Einstein-Infeld-Hoffmann equation [<a href="https://doi.org/10.2307%2F1968714">2</a>]
    
-   $$a = 2$$
+   $$ds^2 = -\left(1-\frac{2M}{r}\right)dt^{2} + \left(1-\frac{2M}{r}\right)^{-1} + r^{2}(d\theta^{2} + sin^{2}(\theta)d\phi^{2})$$
+   
+   $$\left\{\frac{1}{r^{2}}\left(\frac{dr}{d\phi}\right)^{2}\right\} + \frac{1}{r^{2}}\left(1-\frac{2M}{r}\right) = \frac{1}{b^{2}}$$
+   
+   $$\left(\frac{du}{d\phi}\right)^{2} = 2Mu^{3} - u^{2} + \frac{1}{b^{2}}$$
+   
+   $$\frac{1}{r} = -\frac{Q - P + 2M}{4MP} + \frac{Q - P + 6M}{4MP} sn^{2}\left\{\frac{\gamma}{2}\sqrt{\frac{Q}{P}} + F(\xi_{\infty}, k)\right\}$$
+   
+   $$F_{s} = \frac{3M\dot{M}}{8\pi}\frac{1}{(r^* - 3)r^{*5/2}}\left[ \sqrt{r^{*}} - \sqrt{6} + \frac{\sqrt{3}}{3}log\left\{ \frac{(\sqrt{r^{*}} + \sqrt{3})(\sqrt{6} - \sqrt{3})}{(\sqrt{r^{*}} - \sqrt{3})(\sqrt{6} + \sqrt{3})} \right\} \right]$$
+   
+   $$1+z = (1-3\frac{M}{r})^{-1/2}(1+\left(\frac{M}{r^{3}}\right)^{1/2}b\sin(\theta)\sin(\alpha)$$
   
   \[ \vec{a}_i = \sum_{i \neq j}{G m_j \vec{n}_{ij} \over r_{ij}^2} + {1 \over c^2} \sum_{i \neq j} {G m_j \vec{n}_{ij} \over r_{ij}^2} {\left[v_{i}^2 + 2v_{j}^2
   - 4 \left( \vec{v}_i \cdot \vec{v}_j \right) - {3 \over 2} \left( \vec{n}_{ij} \cdot \vec{v}_j \right)^2 - 4 \sum_{k \neq i} {G m_k \over r_{ik}} - \right.}\]
