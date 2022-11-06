@@ -57,7 +57,7 @@ and with \(u = 1/r\)</p>
   
    $$1+z = (1-3\frac{M}{r})^{-1/2}(1+\left(\frac{M}{r^{3}}\right)^{1/2}b\sin(\theta)\sin(\alpha).$$
   
-  With this in mind, to create the photograph we need to choose a point in the accretion disk, calculate the flux, and map it in the photographic plate (what the observer sees) according to all of the dynamics described above.
+  With this in mind, to create the photograph we need to choose a point in the accretion disk, calculate the flux, and map it in the photographic plate (what the observer sees) according to all of the dynamics described above, 
   
   
 <body>
