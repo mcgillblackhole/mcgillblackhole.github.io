@@ -16,4 +16,10 @@
 
 <img src="/images/Black_hole_photo.png" alt="Loading" title="Loading" class="center"  width="400" 
      height="500"  />
+     
+ <h2>Interface </h2>
+     
+<img src="/images/Print_layout_Pedro_2022.png" alt="Loading" title="Loading" class="center"  width="400" 
+height="500"  />
+ 
     
