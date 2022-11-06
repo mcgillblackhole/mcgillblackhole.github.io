@@ -14,7 +14,7 @@ or
     <li> pip3 install matplotlib scipy pyqt5 numpy </li>
     </ul>
   </p>
-if you have both python2 and python3 on your personal machine.
+If you have both python2 and python3 on your personal machine.
 After installing the prerequisites, you only need to download our main code from the github repository via 
 
 <ul>
