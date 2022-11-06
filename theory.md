@@ -28,7 +28,7 @@ title: Theory
    
    $$ds^2 = -\left(1-\frac{2M}{r}\right)dt^{2} + \left(1-\frac{2M}{r}\right)^{-1} + r^{2}(d\theta^{2} + sin^{2}(\theta)d\phi^{2})$$
    
-   $$\left\{\frac{1}{r^{2}}\left(\frac{dr}{d\phi}\right)^{2}\right\} + \frac{1}{r^{2}}\left(1-\frac{2M}{r}\right) = \frac{1}{b^{2}}$$
+   $$\left[\frac{1}{r^{2}}\left(\frac{dr}{d\phi}\right)^{2}\right] + \frac{1}{r^{2}}\left(1-\frac{2M}{r}\right) = \frac{1}{b^{2}}$$
    
    $$\left(\frac{du}{d\phi}\right)^{2} = 2Mu^{3} - u^{2} + \frac{1}{b^{2}}$$
    
