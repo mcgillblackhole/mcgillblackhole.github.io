@@ -1,7 +1,7 @@
 
 <h2>Level Courves </h2>
 
-<img src="/images/contour.gif" alt="Loading" title="Loading" class="center" width="400" 
+<img src="/images/contour.png" alt="Loading" title="Loading" class="center" width="400" 
      height="500" />
 
 <img src="/images/Circle_GW.gif" alt="Loading" title="Loading" class="center" />
