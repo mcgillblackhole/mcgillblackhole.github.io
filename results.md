@@ -4,10 +4,6 @@
 <img src="/images/contour.png" alt="Loading" title="Loading" class="center" width="400" 
      height="500" />
 
-<img src="/images/Circle_GW.gif" alt="Loading" title="Loading" class="center" />
-
-
-
 
 <h2>Lightlike Geodesics </h2>
 
