@@ -7,10 +7,8 @@
 
 <h2>Lightlike Geodesics </h2>
 
-<img src="/images/figure_8.gif" alt="Loading" title="Loading" class="center"  width="400" 
+<img src="/images/trajectories_9900.png" alt="Loading" title="Loading" class="center"  width="400" 
      height="500"  />
-<img src="/images/figure_8_GW.gif" alt="Loading" title="Loading" class="center" />
-
 
 <h2>Photograph </h2>
 
