@@ -15,13 +15,7 @@ title: Theory
   </script>
 </head>
 <body>
-  <p style="text-align:justify">The three-body problem is famous for being a chaotic system without analytical solution in newtonian physics. Even more dificult is the three-body problem in General Relativity, because even the two-body system is intratable for arbitrary masses of the couple. A simple example of three-body systems is
-  the description of the Earth-Sun-Jupiter orbits. When it is possible, physicists usually ignore the least massive body (Earth, in this example), since both
-  Jupiter and the Sun are more massive. Another three-body system that is usually approximated to a two body system is the Alpha Centauri star system.
-  The system is composed of Alpha Centauri A, B and C. However, Alpha Centauri C (also known as Proxima Centauri) mass is only 0.122 solar masses
-  (denoted by \(M_\odot\) ), while the masses of Alpha Centauri A and B are 1.1 \(M_\odot\) and 0.907 \(M_\odot\), respectively. Furthermore, Proxima Centauri
-  appears to be far away from the first two, not influencing their dynamics significantly. The system is then approximated to a binary sistem of Alpha
-  Centauri A and B (See ref [<a href="https://arxiv.org/abs/astro-ph/9609106"> 1</a>] for more details). </p>
+  <p style="text-align:justify">Black Holes have always been objects of interest to everyone, from scientists to lovers of science fiction. Even though these objects were proposed some decadesa go, it was only recently that we were finnaly able to observe them in the Event Horizon Collaboration, and with these new images, the interest in them seems to have been rekindled, our interest included. So, we decided to work trying to simulate the photograph of a Black Hole, something that was already proposed many years ago (as a reference, check [<a href="https://arxiv.org/abs/astro-ph/9609106"> 1</a>]) and that can reproduce results very similar to the ones captured by the telescopes here on Earth.</p>
 <br>
  <p style="text-align:justify"> In this project, we do not wish to work with this approximation. That means we need to solve numerically the system of coupled equations in order to extract
   the orbits of the bodies. The equation of motion of each \(i\)-th body in the system is given by the Einstein-Infeld-Hoffmann equation [<a href="https://doi.org/10.2307%2F1968714">2</a>]
