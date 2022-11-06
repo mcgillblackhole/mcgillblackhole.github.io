@@ -37,8 +37,6 @@ and with \(u = 1/r\)</p>
   
   <img style="width:60%;" src="images/contour.png" alt="Interface" class = "center" />
 
-<hr style="border: 1px solid" noshade>
-
   <p style="text-align:justify">So everything that we did so far has already helped us to have a glance at how the physics works in our system, and how and observer would see it, in a way. Now, what if we would like to get a picture of the black hole, and not only the contours of our level curves? We need to find a way to popagate the photons of the accretion disk of the black hole up to the observer, and luckly, there are already some results that can help up. Page and Thorne [<a href="https://ui.adsabs.harvard.edu/abs/1974ApJ...191..499P/abstract">2</a>] found the flux of radiation from the surface of the disk, given by </p>
 
    $$F_{s} = \frac{3M\dot{M}}{8\pi}\frac{1}{(r^* - 3)r^{*5/2}}\left[ \sqrt{r^{*}} - \sqrt{6} + \frac{\sqrt{3}}{3}log\left\{ \frac{(\sqrt{r^{*}} + \sqrt{3})(\sqrt{6} - \sqrt{3})}{(\sqrt{r^{*}} - \sqrt{3})(\sqrt{6} + \sqrt{3})} \right\} \right],$$
