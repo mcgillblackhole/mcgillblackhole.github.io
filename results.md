@@ -14,6 +14,6 @@
 
 <h2>Photograph </h2>
 
-<img src="/images/photo.gif " alt="Loading" title="Loading" class="center"  width="400" 
+<img src="/images/Black_hole_photo.png" alt="Loading" title="Loading" class="center"  width="400" 
      height="500"  />
     
