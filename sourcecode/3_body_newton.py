@@ -430,25 +430,31 @@ class Widget(QtWidgets.QWidget):
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
+        self.spinBoxm8 = QtWidgets.QDoubleSpinBox()
+        self.spinBoxm8.setRange(1, 10)
+        self.spinBoxm8.setValue(1)
+        self.spinBoxm8.setPrefix("m =  ")
+        self.spinBoxm8.valueChanged.connect(c_value.setNum)
+        vlay4.addWidget(self.spinBoxm8)
 
         # Values b #vamos ter que mudar esses abc_value lá em cima
         self.spinBoxm1 = QtWidgets.QDoubleSpinBox()
         self.spinBoxm1.setRange(-20, 20)
-        self.spinBoxm1.setValue(1)
+        self.spinBoxm1.setValue(self.spinBoxm8.value())
         self.spinBoxm1.setPrefix("b_min =  ")
         self.spinBoxm1.valueChanged.connect(a_value.setNum)
         vlay4.addWidget(self.spinBoxm1)
 
         self.spinBoxm2 = QtWidgets.QDoubleSpinBox()
         self.spinBoxm2.setRange(-20, 20)
-        self.spinBoxm2.setValue(10)
+        self.spinBoxm2.setValue(self.spinBoxm8.value())
         self.spinBoxm2.setPrefix("b_max =  ")
         self.spinBoxm2.valueChanged.connect(b_value.setNum)
         vlay4.addWidget(self.spinBoxm2)
 
         self.spinBoxm3 = QtWidgets.QDoubleSpinBox()
         self.spinBoxm3.setRange(0, 50)
-        self.spinBoxm3.setValue(20)
+        self.spinBoxm3.setValue(1)
         self.spinBoxm3.setPrefix("b_num =  ")
         self.spinBoxm3.valueChanged.connect(c_value.setNum)
         vlay4.addWidget(self.spinBoxm3)
@@ -468,11 +474,25 @@ class Widget(QtWidgets.QWidget):
         vlay4.addWidget(self.spinBoxm5)
 
         self.spinBoxm6 = QtWidgets.QDoubleSpinBox()
-        self.spinBoxm6.setRange(0, 90)
+        self.spinBoxm6.setRange(0, 180)
         self.spinBoxm6.setValue(0)
         self.spinBoxm6.setPrefix("phi =  ")
         self.spinBoxm6.valueChanged.connect(c_value.setNum)
         vlay4.addWidget(self.spinBoxm6)
+
+        self.spinBoxm7 = QtWidgets.QDoubleSpinBox()
+        self.spinBoxm7.setRange(0, 90)
+        self.spinBoxm7.setValue(90)
+        self.spinBoxm7.setPrefix("theta =  ")
+        self.spinBoxm7.valueChanged.connect(c_value.setNum)
+        vlay4.addWidget(self.spinBoxm7)
+
+        # self.spinBoxm8 = QtWidgets.QDoubleSpinBox()
+        # self.spinBoxm8.setRange(1, 10)
+        # self.spinBoxm8.setValue(1)
+        # self.spinBoxm8.setPrefix("m =  ")
+        # self.spinBoxm8.valueChanged.connect(c_value.setNum)
+        # vlay4.addWidget(self.spinBoxm8)
 
 #-------------------------------------------------------------
 #-------------------------------------------------------------
@@ -1340,19 +1360,21 @@ class Widget(QtWidgets.QWidget):
         
         plot_solution(self, fig, x_1, y_1, z_1, t, x_2, y_2, z_2, x_3, y_3, z_3, 
          x_4, y_4, z_4, x_5, y_5, z_5, x_6, y_6, z_6)
-           
+        
         
         #plot_solution(self, fig, x_1, y_1, z_1, t, x_2, y_2, z_2, x_3, y_3, z_3)
         
     def main(self):
         #ani.event_source.stop()
         self.figure.clear()
-        m1 = self.spinBoxm1.value() # Mudar para bmin
-        m2 = self.spinBoxm2.value() # Mudar para bmax
-        m3 = self.spinBoxm3.value() # Mudar para bnum
-        x_init = self.spinBox4.value()
-        y_init = self.spinBox5.value()
-        phi_init = self.spinBox6.value() # Em graus
+        b_min = self.spinBoxm1.value() # Mudar para bmin
+        b_max = self.spinBoxm2.value() # Mudar para bmax
+        b_num = self.spinBoxm3.value() # Mudar para bnum
+        x_init = self.spinBoxm4.value()
+        y_init = self.spinBoxm5.value()
+        phi_init = self.spinBoxm6.value() # Em graus
+        theta_init = self.spinBoxm7.value()
+        m = self.spinBoxm8.value()
         # time interval and the step size
         t = np.arange(0, 30, anispeed)
         
