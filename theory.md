@@ -34,6 +34,10 @@ and with \(u = 1/r\)</p>
    <img src="/images/trajectories_9900.png" alt="Loading" title="Loading" class="center" />
     
     Following our reference, we can also find some expressions useful for finding level curves (contours) of the accretion disk surrounding our Black Hole. To do this, we need to perform some quite lenghty calculations and to define new variables \(b = P^{3} / (P-2M)\), \(Q^{2} = (P-2M)(P+6M)\), that relates our impact parameter \(b\) to the periastron distance \(P\). With this, and solving some elliptical integrals, we can get
+    
+   $$\cos \gamma = \frac{\cos \alpha}{(\cos(\alpha)^2 + \cos(\theta_0)^2)^(1/2)}$$
+
+  The observer will register BH's image over the photographic plane where the coordinates of each pixel is given in cylindrical coordinates \(b,\alpha\), where \(b\) is the      impact parameter and \(alpha\) is the polar angle on the plane.
   
    $$\frac{1}{r} = -\frac{Q - P + 2M}{4MP} + \frac{Q - P + 6M}{4MP} sn^{2}\left\{\frac{\gamma}{2}\sqrt{\frac{Q}{P}} + F(\xi_{\infty}, k)\right\},$$
     
