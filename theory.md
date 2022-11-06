@@ -17,14 +17,15 @@ title: Theory
 <body>
   <p style="text-align:justify">Black Holes have always been objects of interest to everyone, from scientists to lovers of science fiction. Even though these objects were proposed some decadesa go, it was only recently that we were finnaly able to observe them in the Event Horizon Collaboration, and with these new images, the interest in them seems to have been rekindled, our interest included. So, we decided to work trying to simulate the photograph of a Black Hole, something that was already proposed many years ago (as a reference, check [<a href="https://arxiv.org/abs/astro-ph/9609106"> 1</a>]) and that can reproduce results very similar to the ones captured by the telescopes here on Earth.</p>
 <br>
- <p style="text-align:justify"> In this project, we do not wish to work with this approximation. That means we need to solve numerically the system of coupled equations in order to extract
-  the orbits of the bodies. The equation of motion of each \(i\)-th body in the system is given by the Einstein-Infeld-Hoffmann equation [<a href="https://doi.org/10.2307%2F1968714">2</a>]
+ <p style="text-align:justify"> In this project, we consider only Schwarszchild Black Holes, with metric given by
    
-   $$ds^2 = -\left(1-\frac{2M}{r}\right)dt^{2} + \left(1-\frac{2M}{r}\right)^{-1} + r^{2}(d\theta^{2} + sin^{2}(\theta)d\phi^{2})$$
+   $$ds^2 = -\left(1-\frac{2M}{r}\right)dt^{2} + \left(1-\frac{2M}{r}\right)^{-1} + r^{2}(d\theta^{2} + sin^{2}(\theta)d\phi^{2}).$$
+   
+   The first thing that had to be done was to find a way and understand how to solve the equations of motion for a massless particle (photon), since this would be the base for all the rest of our work. So, from the metric we can get the following equations, using $\theta = \pi/2$
 
-   $$\left\{\frac{1}{r^{2}}\left(\frac{dr}{d\phi}\right)^{2}\right\} + \frac{1}{r^{2}}\left(1-\frac{2M}{r}\right) = \frac{1}{b^{2}}$$
-
-   $$\left(\frac{du}{d\phi}\right)^{2} = 2Mu^{3} - u^{2} + \frac{1}{b^{2}}$$
+   $$\left\{\frac{1}{r^{2}}\left(\frac{dr}{d\phi}\right)^{2}\right\} + \frac{1}{r^{2}}\left(1-\frac{2M}{r}\right) = \frac{1}{b^{2}},$$
+and with $u = 1/r$
+   $$\left(\frac{du}{d\phi}\right)^{2} = 2Mu^{3} - u^{2} + \frac{1}{b^{2}}.$$
 
    $$\frac{1}{r} = -\frac{Q - P + 2M}{4MP} + \frac{Q - P + 6M}{4MP} sn^{2}\left\{\frac{\gamma}{2}\sqrt{\frac{Q}{P}} + F(\xi_{\infty}, k)\right\}$$
 
