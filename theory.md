@@ -15,6 +15,9 @@ title: Theory
   </script>
 </head>
 <body>
+  
+  
+  
   <p style="text-align:justify">The three-body problem is famous for being a chaotic system without analytical solution in newtonian physics. Even more dificult is the three-body problem in General Relativity, because even the two-body system is intratable for arbitrary masses of the couple. A simple example of three-body systems is
   the description of the Earth-Sun-Jupiter orbits. When it is possible, physicists usually ignore the least massive body (Earth, in this example), since both
   Jupiter and the Sun are more massive. Another three-body system that is usually approximated to a two body system is the Alpha Centauri star system.
@@ -25,7 +28,7 @@ title: Theory
 <br>
  <p style="text-align:justify"> In this project, we do not wish to work with this approximation. That means we need to solve numerically the system of coupled equations in order to extract
   the orbits of the bodies. The equation of motion of each \(i\)-th body in the system is given by the Einstein-Infeld-Hoffmann equation [<a href="https://doi.org/10.2307%2F1968714">2</a>]
-  
+  $$a = 2$$
   \[ \vec{a}_i = \sum_{i \neq j}{G m_j \vec{n}_{ij} \over r_{ij}^2} + {1 \over c^2} \sum_{i \neq j} {G m_j \vec{n}_{ij} \over r_{ij}^2} {\left[v_{i}^2 + 2v_{j}^2
   - 4 \left( \vec{v}_i \cdot \vec{v}_j \right) - {3 \over 2} \left( \vec{n}_{ij} \cdot \vec{v}_j \right)^2 - 4 \sum_{k \neq i} {G m_k \over r_{ik}} - \right.}\]
   \[{\left. - \sum_{j \neq k} {G m_k \over r_{jk}} + {1 \over 2} \left( \left( \vec{r}_j - \vec{r}_i \right) \cdot \vec{a}_j \right) \right]} + {1 \over c^2}
