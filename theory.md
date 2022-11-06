@@ -56,16 +56,3 @@ and with \(u = 1/r\)</p>
   
   
 <body>
-
-
-<h1>References</h1>
-
-<ol>
-  <li> Wiegert, P. A., & Holman, M. (1996). The stability of planets in the Alpha Centauri system. arXiv preprint <a href="https://arxiv.org/abs/astro-ph/9609106"> astro-ph/9609106</a>;</li>
-  <li>Einstein, A., Infeld, L., & Hoffmann, B. (1938). The gravitational equations and the problem of motion. Annals of mathematics, 65-100. <a href="https://doi.org/10.2307%2F1968714"> doi:10.2307/1968714</a>;</li>
-  <li>Abbott, B. P., Abbott, R., Abbott, T. D., Abernathy, M. R., Acernese, F., Ackley, K., ... & Cavalieri, R. (2016). Observation of gravitational waves from a binary black hole merger. 
-    Physical review letters, 116(6), 061102.<a target="_blank" href="https://doi.org/10.1103/PhysRevLett.116.061102">doi:10.1103/PhysRevLett.116.061102.</a></li>
-  <li>Li, X., Jing, Y., & Liao, S. (2018). Over a thousand new periodic orbits of a planar three-body system with unequal masses. Publications of the Astronomical
-    Society of Japan, 70(4), 64.<a target="_blank" href="https://doi.org/10.1093/pasj/psy057">doi:10.1093/pasj/psy057.</a></li>
-  <li>Dmitrašinović, V., Šuvakov, M., & Hudomal, A. (2014). Gravitational waves from periodic three-body systems. Physical review letters, 113(10), 101102.<a target="_blank" href="https://doi.org/10.1103/PhysRevLett.113.101102">doi:10.1103/PhysRevLett.113.101102</a></li>
-</ol>
