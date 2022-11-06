@@ -29,15 +29,13 @@ and with \(u = 1/r)</p>
    
    $$\left(\frac{du}{d\phi}\right)^{2} = 2Mu^{3} - u^{2} + \frac{1}{b^{2}}.$$
    
-  <p style="text-align:justify">Solving this equation we can find the lightlike geodesics we are interested in, as shown in the figure bellow. Following our reference, we can also find some expressions useful for finding level curves (contours) of the accretion disk surrounding our Black Hole. To do this, we need to perform some quite lenghty calculations and to define new variables \(b = P\^{3} / (P-2M))
+  <p style="text-align:justify">Solving this equation we can find the lightlike geodesics we are interested in, as shown in the figure bellow. Following our reference, we can also find some expressions useful for finding level curves (contours) of the accretion disk surrounding our Black Hole. To do this, we need to perform some quite lenghty calculations and to define new variables \(b = P\^{3} / (P-2M)), \(Q^{2} = (P-2M)(P+6M)), that relates our impact parameter \(b) to the periastron distance \(P). With this, and solving some elliptical integrals, we can get
   
-  
-  
-  
-  
-  </p>
+   $$\frac{1}{r} = -\frac{Q - P + 2M}{4MP} + \frac{Q - P + 6M}{4MP} sn^{2}\left\{\frac{\gamma}{2}\sqrt{\frac{Q}{P}} + F(\xi_{\infty}, k)\right\},$$
+    
+   and use this expression to find contours as the following.</p>
 
-   $$\frac{1}{r} = -\frac{Q - P + 2M}{4MP} + \frac{Q - P + 6M}{4MP} sn^{2}\left\{\frac{\gamma}{2}\sqrt{\frac{Q}{P}} + F(\xi_{\infty}, k)\right\}$$
+  
 
    $$F_{s} = \frac{3M\dot{M}}{8\pi}\frac{1}{(r^* - 3)r^{*5/2}}\left[ \sqrt{r^{*}} - \sqrt{6} + \frac{\sqrt{3}}{3}log\left\{ \frac{(\sqrt{r^{*}} + \sqrt{3})(\sqrt{6} - \sqrt{3})}{(\sqrt{r^{*}} - \sqrt{3})(\sqrt{6} + \sqrt{3})} \right\} \right]$$
 
