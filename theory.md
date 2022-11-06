@@ -21,15 +21,15 @@ title: Theory
    
    $$ds^2 = -\left(1-\frac{2M}{r}\right)dt^{2} + \left(1-\frac{2M}{r}\right)^{-1} + r^{2}(d\theta^{2} + sin^{2}(\theta)d\phi^{2}).$$
    
-   The first thing that had to be done was to find a way and understand how to solve the equations of motion for a massless particle (photon), since this would be the base for all the rest of our work. So, from the metric we can get the following equations (we could also use the Lagrangean to find the equations of motion), using \(\theta = \pi/2) and having \(b) as an impact parameter
+   The first thing that had to be done was to find a way and understand how to solve the equations of motion for a massless particle (photon), since this would be the base for all the rest of our work. So, from the metric we can get the following equations (we could also use the Lagrangean to find the equations of motion), using \(\theta = \pi/2\) and having \(b\) as an impact parameter
 
    $$\left\{\frac{1}{r^{2}}\left(\frac{dr}{d\phi}\right)^{2}\right\} + \frac{1}{r^{2}}\left(1-\frac{2M}{r}\right) = \frac{1}{b^{2}},$$
    
-and with \(u = 1/r)</p>
+and with \(u = 1/r\)</p>
    
    $$\left(\frac{du}{d\phi}\right)^{2} = 2Mu^{3} - u^{2} + \frac{1}{b^{2}}.$$
    
-  <p style="text-align:justify">Solving this equation we can find the lightlike geodesics we are interested in, as shown in the figure bellow. Following our reference, we can also find some expressions useful for finding level curves (contours) of the accretion disk surrounding our Black Hole. To do this, we need to perform some quite lenghty calculations and to define new variables \(b = P\^{3} / (P-2M)), \(Q^{2} = (P-2M)(P+6M)), that relates our impact parameter \(b) to the periastron distance \(P). With this, and solving some elliptical integrals, we can get
+  <p style="text-align:justify">Solving this equation we can find the lightlike geodesics we are interested in, as shown in the figure bellow. Following our reference, we can also find some expressions useful for finding level curves (contours) of the accretion disk surrounding our Black Hole. To do this, we need to perform some quite lenghty calculations and to define new variables \(b = P\^{3} / (P-2M)\), \(Q^{2} = (P-2M)(P+6M)\), that relates our impact parameter \(b) to the periastron distance \(P). With this, and solving some elliptical integrals, we can get
   
    $$\frac{1}{r} = -\frac{Q - P + 2M}{4MP} + \frac{Q - P + 6M}{4MP} sn^{2}\left\{\frac{\gamma}{2}\sqrt{\frac{Q}{P}} + F(\xi_{\infty}, k)\right\},$$
     
