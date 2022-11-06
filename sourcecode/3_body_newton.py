@@ -320,6 +320,7 @@ class Widget(QtWidgets.QWidget):
         button4 = QtWidgets.QPushButton("Circle! (m1 = m2 = m3, so only the mass slider 1 affects the system)")
         button4.clicked.connect(self.circle)
         combobox = QtWidgets.QComboBox(self)
+        # button5 = QtWidgets.
         # Add preconfigured cases to the box
         combobox.addItem("Figure 8")
         combobox.addItem("Circle")
@@ -328,8 +329,9 @@ class Widget(QtWidgets.QWidget):
         combobox.addItem("Planar M2 (Butterfly)")
         combobox.addItem("Planar M3")
         combobox.addItem("Planar Unstable1")
-        combobox.addItem("Random Configuration")
-        choose = QtWidgets.QLabel("Choose a predefined configuration or have fun with random orbits! (Don't forget to stop the simulation before trying another config).")
+        combobox.addItem("User Configuration")
+        combobox.addItem("b=bc")
+        choose = QtWidgets.QLabel("Choose the option of simulating the OVO LUMINOSO PORRA or select the desired range for the impact parameter.")
         combobox.activated[str].connect(self.case) 
         #button.resize(150, 50)
         lay = QtWidgets.QVBoxLayout(self)
@@ -387,9 +389,16 @@ class Widget(QtWidgets.QWidget):
         c_slider.setValue(1)
         self.c_slider = c_slider
 
+        d_label = QtWidgets.QLabel("Massa Dantinhas = ")
+        d_slider = QtWidgets.QSlider(QtCore.Qt.Horizontal)
+        d_slider.setRange(0,50)
+        d_slider.setValue(1)
+        self.b_slider = d_slider
+
         a_value= QtWidgets.QLabel()
         b_value = QtWidgets.QLabel() 
         c_value = QtWidgets.QLabel() 
+        d_value = QtWidgets.QLabel() 
 
         main_layout = QtWidgets.QGridLayout(self)
         main_layout.addWidget(groupBox,0,0)
@@ -397,27 +406,76 @@ class Widget(QtWidgets.QWidget):
         b_slider.valueChanged.connect(b_value.setNum)
         c_slider.valueChanged.connect(c_value.setNum)   
 
-        # Values for masses
+        #Values for masses
+        # self.spinBoxm1 = QtWidgets.QDoubleSpinBox()
+        # self.spinBoxm1.setRange(0, 50)
+        # self.spinBoxm1.setValue(1)
+        # self.spinBoxm1.setPrefix("m1 =  ")
+        # self.spinBoxm1.valueChanged.connect(a_value.setNum)
+        # vlay4.addWidget(self.spinBoxm1)
+
+        # self.spinBoxm2 = QtWidgets.QDoubleSpinBox()
+        # self.spinBoxm2.setRange(0, 50)
+        # self.spinBoxm2.setValue(1)
+        # self.spinBoxm2.setPrefix("m2 =  ")
+        # self.spinBoxm2.valueChanged.connect(b_value.setNum)
+        # vlay4.addWidget(self.spinBoxm2)
+
+        # self.spinBoxm3 = QtWidgets.QDoubleSpinBox()
+        # self.spinBoxm3.setRange(0, 50)
+        # self.spinBoxm3.setValue(2)
+        # self.spinBoxm3.setPrefix("m3 =  ")
+        # self.spinBoxm3.valueChanged.connect(c_value.setNum)
+        # vlay4.addWidget(self.spinBoxm3)
+
+#---------------------------------------------------------------
+#---------------------------------------------------------------
+
+        # Values b #vamos ter que mudar esses abc_value lá em cima
         self.spinBoxm1 = QtWidgets.QDoubleSpinBox()
-        self.spinBoxm1.setRange(0, 50)
+        self.spinBoxm1.setRange(-20, 20)
         self.spinBoxm1.setValue(1)
-        self.spinBoxm1.setPrefix("m1 =  ")
+        self.spinBoxm1.setPrefix("b_min =  ")
         self.spinBoxm1.valueChanged.connect(a_value.setNum)
         vlay4.addWidget(self.spinBoxm1)
 
         self.spinBoxm2 = QtWidgets.QDoubleSpinBox()
-        self.spinBoxm2.setRange(0, 50)
-        self.spinBoxm2.setValue(1)
-        self.spinBoxm2.setPrefix("m2 =  ")
+        self.spinBoxm2.setRange(-20, 20)
+        self.spinBoxm2.setValue(10)
+        self.spinBoxm2.setPrefix("b_max =  ")
         self.spinBoxm2.valueChanged.connect(b_value.setNum)
         vlay4.addWidget(self.spinBoxm2)
 
         self.spinBoxm3 = QtWidgets.QDoubleSpinBox()
         self.spinBoxm3.setRange(0, 50)
-        self.spinBoxm3.setValue(2)
-        self.spinBoxm3.setPrefix("m3 =  ")
+        self.spinBoxm3.setValue(20)
+        self.spinBoxm3.setPrefix("b_num =  ")
         self.spinBoxm3.valueChanged.connect(c_value.setNum)
         vlay4.addWidget(self.spinBoxm3)
+
+        self.spinBoxm4 = QtWidgets.QDoubleSpinBox()
+        self.spinBoxm4.setRange(-40, 40)
+        self.spinBoxm4.setValue(-40)
+        self.spinBoxm4.setPrefix("x =  ")
+        self.spinBoxm4.valueChanged.connect(c_value.setNum)
+        vlay4.addWidget(self.spinBoxm4)
+
+        self.spinBoxm5 = QtWidgets.QDoubleSpinBox()
+        self.spinBoxm5.setRange(-40, 40)
+        self.spinBoxm5.setValue(0)
+        self.spinBoxm5.setPrefix("y =  ")
+        self.spinBoxm5.valueChanged.connect(c_value.setNum)
+        vlay4.addWidget(self.spinBoxm5)
+
+        self.spinBoxm6 = QtWidgets.QDoubleSpinBox()
+        self.spinBoxm6.setRange(0, 90)
+        self.spinBoxm6.setValue(0)
+        self.spinBoxm6.setPrefix("phi =  ")
+        self.spinBoxm6.valueChanged.connect(c_value.setNum)
+        vlay4.addWidget(self.spinBoxm6)
+
+#-------------------------------------------------------------
+#-------------------------------------------------------------
 
         #lay.addWidget(button2)
         #self.plot()
@@ -438,7 +496,11 @@ class Widget(QtWidgets.QWidget):
             self.M2() 
         elif text == "Planar M3":
             self.M3() 
-        elif text == "Random Configuration":
+        elif text == 'Critical b':
+            self.critb()
+        elif text == "User's choice":
+            self.userchoice()
+        elif text == "User Configuration":
             self.main()
 
     global anispeed 
@@ -455,6 +517,19 @@ class Widget(QtWidgets.QWidget):
     def stop(self):
         ani.event_source.stop()
         ani.frame_seq = ani.new_frame_seq()  
+
+    #---------------------------------------------------------
+    #---------------------------------------------------------
+
+    # def critb(self):
+
+    #     M = 1
+    #     bc = np.sqrt(3)*3*M
+
+    #     plot pipipi
+
+    #---------------------------------------------------------
+    #---------------------------------------------------------
 
     def U1(self):
         #ani.event_source.stop()
@@ -1272,9 +1347,12 @@ class Widget(QtWidgets.QWidget):
     def main(self):
         #ani.event_source.stop()
         self.figure.clear()
-        m1 = self.spinBoxm1.value()  
-        m2 = self.spinBoxm2.value()
-        m3 = self.spinBoxm3.value()
+        m1 = self.spinBoxm1.value() # Mudar para bmin
+        m2 = self.spinBoxm2.value() # Mudar para bmax
+        m3 = self.spinBoxm3.value() # Mudar para bnum
+        x_init = self.spinBox4.value()
+        y_init = self.spinBox5.value()
+        phi_init = self.spinBox6.value() # Em graus
         # time interval and the step size
         t = np.arange(0, 30, anispeed)
         
