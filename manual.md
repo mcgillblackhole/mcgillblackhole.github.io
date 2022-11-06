@@ -28,7 +28,7 @@ enter the directory, and run the main code via "python black_hole_images.py".
 
 <p style="text-align:justify"> In the main pannel you'll be able to see an image representing the geodesics of photon(s) given the configuration(s) you chose, and a simulated picture of the black hole. </p>
 
-<img style="width:60%;" src="images/print_interface_pedro.png" alt="Interface" class = "center" />
+<img src="/images/Print_layout_Pedro_2022.png" alt="Loading" title="Loading" class="center"/>
 
 <hr style="border: 1px solid" noshade>
   
